@@ -1,0 +1,1237 @@
+[2024-05-14T00:57:43.507Z] [ERROR] Failed to start the server: Error: Unable to connect to the database:
+[2024-05-14T00:57:58.608Z] [ERROR] Failed to start the server: Error: Unable to connect to the database:
+[2024-05-14T00:58:00.714Z] [ERROR] Failed to start the server: Error: Unable to connect to the database:
+[2024-05-14T00:58:02.866Z] [ERROR] Failed to start the server: Error: Unable to connect to the database:
+[2024-05-14T00:59:20.252Z] [ERROR] Failed to start the server: Error: Unable to connect to the database:
+[2024-05-14T00:59:31.394Z] [ERROR] Failed to start the server: Error: Unable to connect to the database:
+[2024-05-14T00:59:34.092Z] [ERROR] Failed to start the server: Error: Unable to connect to the database:
+[2024-05-14T01:03:13.155Z] [ERROR] Failed to start the server: Error: Unable to connect to the database:
+[2024-05-14T01:05:12.348Z] [ERROR] Failed to start the server: Error: Unable to connect to the database:
+[2024-05-14T01:09:56.379Z] [INFO] [37m[46mServer Runing in development Mode one 5000[49m[39m
+[2024-05-14T01:10:02.696Z] [INFO] [37m[46mServer Runing in development Mode one 5000[49m[39m
+[2024-05-14T01:10:04.438Z] [INFO] [37m[46mServer Runing in development Mode one 5000[49m[39m
+[2024-05-14T01:10:06.140Z] [INFO] [37m[46mServer Runing in development Mode one 5000[49m[39m
+[2024-05-14T01:10:08.577Z] [INFO] [37m[46mServer Runing in development Mode one 5000[49m[39m
+[2024-05-14T01:45:49.509Z] [INFO] [37m[46mServer Runing in development Mode one 5000[49m[39m
+[2024-05-14T01:49:47.352Z] [INFO] [37m[46mServer Runing in development Mode one 5000[49m[39m
+[2024-05-14T01:52:49.273Z] [INFO] [37m[46mServer Runing in development Mode one 5000[49m[39m
+[2024-05-14T01:52:51.303Z] [INFO] [37m[46mServer Runing in development Mode one 5000[49m[39m
+[2024-05-14T01:52:52.821Z] [INFO] [37m[46mServer Runing in development Mode one 5000[49m[39m
+[2024-05-14T01:56:30.011Z] [INFO] [37m[46mServer Runing in development Mode one 5000[49m[39m
+[2024-05-14T01:56:33.787Z] [INFO] [37m[46mServer Runing in development Mode one 5000[49m[39m
+[2024-05-14T01:56:45.759Z] [INFO] [37m[46mServer Runing in development Mode one 5000[49m[39m
+[2024-05-14T01:56:48.291Z] [INFO] [37m[46mServer Runing in development Mode one 5000[49m[39m
+[2024-05-14T01:56:51.762Z] [INFO] [37m[46mServer Runing in development Mode one 5000[49m[39m
+[2024-05-14T01:56:58.290Z] [INFO] [37m[46mServer Runing in development Mode one 5000[49m[39m
+[2024-05-14T01:57:02.325Z] [INFO] [37m[46mServer Runing in development Mode one 5000[49m[39m
+[2024-05-14T01:57:04.914Z] [INFO] [37m[46mServer Runing in development Mode one 5000[49m[39m
+[2024-05-14T01:57:06.813Z] [INFO] [37m[46mServer Runing in development Mode one 5000[49m[39m
+[2024-05-14T01:57:08.557Z] [INFO] [37m[46mServer Runing in development Mode one 5000[49m[39m
+[2024-05-14T01:57:10.301Z] [INFO] [37m[46mServer Runing in development Mode one 5000[49m[39m
+[2024-05-14T01:57:24.217Z] [INFO] [37m[46mServer Runing in development Mode one 5000[49m[39m
+[2024-05-14T01:57:26.584Z] [INFO] [37m[46mServer Runing in development Mode one 5000[49m[39m
+[2024-05-14T01:57:30.393Z] [INFO] [37m[46mServer Runing in development Mode one 5000[49m[39m
+[2024-05-14T01:57:33.028Z] [INFO] [37m[46mServer Runing in development Mode one 5000[49m[39m
+[2024-05-14T01:57:34.603Z] [INFO] [37m[46mServer Runing in development Mode one 5000[49m[39m
+[2024-05-14T01:57:39.672Z] [INFO] [37m[46mServer Runing in development Mode one 5000[49m[39m
+[2024-05-14T01:57:42.151Z] [INFO] [37m[46mServer Runing in development Mode one 5000[49m[39m
+[2024-05-14T01:57:53.683Z] [INFO] [37m[46mServer Runing in development Mode one 5000[49m[39m
+[2024-05-14T01:58:08.977Z] [INFO] [37m[46mServer Runing in development Mode one 5000[49m[39m
+[2024-05-14T01:58:19.233Z] [INFO] [37m[46mServer Runing in development Mode one 5000[49m[39m
+[2024-05-14T01:58:21.157Z] [INFO] [37m[46mServer Runing in development Mode one 5000[49m[39m
+[2024-05-14T01:58:25.865Z] [INFO] [37m[46mServer Runing in development Mode one 5000[49m[39m
+[2024-05-14T01:58:27.076Z] [INFO] [37m[46mServer Runing in development Mode one 5000[49m[39m
+[2024-05-14T01:58:34.785Z] [INFO] [37m[46mServer Runing in development Mode one 5000[49m[39m
+[2024-05-14T02:03:06.862Z] [INFO] [37m[46mServer Runing in development Mode one 5000[49m[39m
+[2024-05-14T02:11:24.374Z] [INFO] [37m[46mServer Runing in development Mode one 5000[49m[39m
+[2024-05-14T05:20:07.056Z] [ERROR] Failed to start the server: Error: Unable to connect to the database:
+[2024-05-14T05:20:53.043Z] [ERROR] Failed to start the server: Error: Unable to connect to the database:
+[2024-05-14T05:21:33.693Z] [ERROR] Failed to start the server: Error: Unable to connect to the database:
+[2024-05-14T05:21:43.420Z] [ERROR] Failed to start the server: Error: Unable to connect to the database:
+[2024-05-14T05:23:40.911Z] [INFO] [37m[46mServer Runing in undefined Mode one 8080[49m[39m
+[2024-05-14T06:15:27.608Z] [INFO] [37m[46mServer Runing in undefined Mode one 8080[49m[39m
+[2024-05-14T06:25:35.488Z] [INFO] [37m[46mServer Runing in undefined Mode one 8080[49m[39m
+[2024-05-14T12:35:31.259Z] [INFO] [37m[46mServer Runing in undefined Mode one 5000[49m[39m
+[2024-05-14T12:40:23.158Z] [INFO] [37m[46mServer Running in undefined Mode on Port 5000[49m[39m
+[2024-05-14T12:42:42.329Z] [INFO] [37m[46mServer Running in development Mode on Port 5000[49m[39m
+[2024-05-14T12:44:27.302Z] [INFO] [37m[46mServer Running in development Mode on Port 8000[49m[39m
+[2024-05-14T12:45:17.199Z] [INFO] [37m[46mServer Running in development Mode on Port 3001[49m[39m
+[2024-05-14T12:45:18.221Z] [INFO] [37m[46mServer Running in development Mode on Port 3001[49m[39m
+[2024-05-14T12:45:48.692Z] [INFO] [37m[46mServer Running in development Mode on Port 5000[49m[39m
+[2024-05-14T12:46:19.680Z] [INFO] [37m[46mServer Running in development Mode on Port 3001[49m[39m
+[2024-05-14T12:46:34.927Z] [INFO] [37m[46mServer Running in development Mode on Port 3001[49m[39m
+[2024-05-14T12:47:06.928Z] [INFO] [37m[46mServer Running in development Mode on Port 3001[49m[39m
+[2024-05-14T12:47:47.560Z] [INFO] [37m[46mServer Running in development Mode on Port 3001[49m[39m
+[2024-05-14T12:47:50.272Z] [INFO] [37m[46mServer Running in development Mode on Port 3001[49m[39m
+[2024-05-14T12:58:45.007Z] [ERROR] Failed to start the server: Error: Unable to connect to the database:
+[2024-05-14T12:59:11.671Z] [INFO] [37m[46mServer Running in development Mode on Port 3001[49m[39m
+[2024-05-14T13:07:19.739Z] [INFO] [37m[46mServer Running in development Mode on Port 3001[49m[39m
+[2024-05-14T13:07:21.562Z] [INFO] [37m[46mServer Running in development Mode on Port 3001[49m[39m
+[2024-05-14T13:10:59.070Z] [INFO] [37m[46mServer Running in development Mode on Port 5000[49m[39m
+[2024-05-14T13:11:02.032Z] [INFO] [37m[46mServer Running in development Mode on Port 5000[49m[39m
+[2024-05-14T13:11:07.290Z] [INFO] [37m[46mServer Running in development Mode on Port 5000[49m[39m
+[2024-05-14T13:11:13.946Z] [INFO] [37m[46mServer Running in development Mode on Port 5000[49m[39m
+[2024-05-14T13:11:15.728Z] [INFO] [37m[46mServer Running in development Mode on Port 5000[49m[39m
+[2024-05-14T13:11:54.239Z] [INFO] [37m[46mServer Running in development Mode on Port 5000[49m[39m
+[2024-05-14T13:12:40.723Z] [INFO] [37m[46mServer Running in development Mode on Port 10000[49m[39m
+[2024-05-14T13:15:49.844Z] [INFO] [37m[46mServer Running in development Mode on Port 10000[49m[39m
+[2024-05-14T13:15:54.637Z] [INFO] [37m[46mServer Running in development Mode on Port 10000[49m[39m
+[2024-05-14T13:16:13.753Z] [INFO] [37m[46mServer Running in development Mode on Port 10000[49m[39m
+[2024-05-14T13:19:00.436Z] [INFO] [37m[46mServer Running in development Mode on Port 10000[49m[39m
+[2024-05-14T13:19:01.707Z] [INFO] [37m[46mServer Running in development Mode on Port 10000[49m[39m
+[2024-05-14T13:19:04.512Z] [INFO] [37m[46mServer Running in development Mode on Port 10000[49m[39m
+[2024-05-14T13:20:47.324Z] [INFO] [37m[46mServer Running in development Mode on Port 10000[49m[39m
+[2024-05-14T13:20:47.834Z] [INFO] [37m[46mServer Running in development Mode on Port 10000[49m[39m
+[2024-05-14T13:23:00.401Z] [INFO] [37m[46mServer Running in development Mode on Port 10000[49m[39m
+[2024-05-14T13:25:08.071Z] [INFO] [37m[46mServer Running in development Mode on Port 10000[49m[39m
+[2024-05-14T13:25:30.769Z] [INFO] [37m[46mServer Running in development Mode on Port 10000[49m[39m
+[2024-05-14T13:25:42.051Z] [INFO] [37m[46mServer Running in development Mode on Port 10000[49m[39m
+[2024-05-14T13:25:43.967Z] [INFO] [37m[46mServer Running in development Mode on Port 10000[49m[39m
+[2024-05-14T13:27:21.394Z] [INFO] [37m[46mServer Running in development Mode on Port 8080[49m[39m
+[2024-05-14T13:30:01.205Z] [INFO] [37m[46mServer Running in development Mode on Port 8080[49m[39m
+[2024-05-14T13:32:31.044Z] [INFO] [37m[46mServer Running in development Mode on Port 8080[49m[39m
+[2024-05-14T13:35:19.449Z] [INFO] [37m[46mServer Running in development Mode on Port 8080[49m[39m
+[2024-05-14T13:36:56.426Z] [INFO] [37m[46mServer Running in development Mode on Port 8080[49m[39m
+[2024-05-14T15:49:22.185Z] [ERROR] Failed to start the server: Error: Unable to connect to the database:
+[2024-05-14T15:51:04.875Z] [INFO] [37m[46mServer Running in development Mode on Port 8080[49m[39m
+[2024-05-14T16:05:00.709Z] [INFO] [37m[46mServer Running in development Mode on Port 8080[49m[39m
+[2024-05-14T16:05:53.601Z] [INFO] [37m[46mServer Running in development Mode on Port 8080[49m[39m
+[2024-05-14T16:31:08.299Z] [INFO] POST /api/v1/user/getUserData
+[2024-05-14T16:31:08.305Z] [INFO] POST /api/v1/user/getUserData
+[2024-05-14T16:31:25.627Z] [INFO] POST /api/v1/user/getUserData
+[2024-05-14T16:42:58.619Z] [INFO] POST /api/v1/user/getUserData
+[2024-05-14T16:43:00.618Z] [INFO] POST /api/v1/user/getUserData
+[2024-05-14T16:43:02.632Z] [INFO] POST /api/v1/user/getUserData
+[2024-05-14T16:43:04.622Z] [INFO] POST /api/v1/user/getUserData
+[2024-05-14T16:43:54.638Z] [INFO] POST /api/v1/user/getUserData
+[2024-05-14T16:43:55.630Z] [INFO] POST /api/v1/user/getUserData
+[2024-05-14T16:44:04.628Z] [INFO] POST /api/v1/user/getUserData
+[2024-05-14T16:52:39.437Z] [INFO] [37m[46mServer Running in development Mode on Port 8080[49m[39m
+[2024-05-14T16:53:03.548Z] [INFO] [37m[46mServer Running in development Mode on Port 8080[49m[39m
+[2024-05-14T17:09:46.125Z] [INFO] [37m[46mServer Running in development Mode on Port 8080[49m[39m
+[2024-05-14T17:38:52.507Z] [INFO] [37m[46mServer Running in development Mode on Port 8080[49m[39m
+[2024-05-14T17:49:43.346Z] [INFO] [37m[46mServer Running in development Mode on Port 8080[49m[39m
+[2024-05-14T17:59:25.537Z] [INFO] [37m[46mServer Running in development Mode on Port 8080[49m[39m
+[2024-05-14T18:01:17.396Z] [INFO] [37m[46mServer Running in development Mode on Port 8080[49m[39m
+[2024-05-14T18:19:53.977Z] [INFO] [37m[46mServer Running in development Mode on Port 8080[49m[39m
+[2024-05-14T18:20:17.588Z] [INFO] POST /api/v1/user/getUserData
+[2024-05-14T18:20:17.596Z] [INFO] POST /api/v1/user/getUserData
+[2024-05-14T18:21:50.593Z] [INFO] POST /api/v1/user/getUserData
+[2024-05-14T18:21:50.600Z] [INFO] POST /api/v1/user/getUserData
+[2024-05-14T18:23:56.437Z] [INFO] POST /api/v1/user/getUserData
+[2024-05-14T18:23:56.444Z] [INFO] POST /api/v1/user/getUserData
+[2024-05-14T18:24:30.203Z] [INFO] POST /api/v1/user/getUserData
+[2024-05-14T18:24:30.209Z] [INFO] POST /api/v1/user/getUserData
+[2024-05-14T18:28:40.483Z] [INFO] [37m[46mServer Running in development Mode on Port 8080[49m[39m
+[2024-05-14T18:29:22.208Z] [INFO] POST /api/v1/user/register
+[2024-05-14T18:29:37.295Z] [INFO] POST /api/v1/user/login
+[2024-05-14T18:29:37.550Z] [INFO] POST /api/v1/user/getUserData
+[2024-05-14T18:29:37.751Z] [INFO] POST /api/v1/user/getUserData
+[2024-05-14T18:31:34.641Z] [INFO] POST /api/v1/user/getUserData
+[2024-05-14T18:33:51.675Z] [INFO] POST /api/v1/user/getUserData
+[2024-05-14T18:33:52.025Z] [INFO] POST /api/v1/user/getUserData
+[2024-05-14T18:34:28.645Z] [INFO] POST /api/v1/user/getUserData
+[2024-05-14T18:34:49.537Z] [INFO] [37m[46mServer Running in development Mode on Port 8080[49m[39m
+[2024-05-14T18:35:17.389Z] [INFO] GET /main.602ed353bc6964befe97.hot-update.json
+[2024-05-14T18:35:17.425Z] [INFO] POST /api/v1/user/getUserData
+[2024-05-14T18:35:17.434Z] [INFO] POST /api/v1/user/getUserData
+[2024-05-14T18:35:28.275Z] [INFO] POST /api/v1/user/getUserData
+[2024-05-14T18:35:28.280Z] [INFO] POST /api/v1/user/getUserData
+[2024-05-14T18:35:39.450Z] [INFO] POST /api/v1/user/getUserData
+[2024-05-14T18:35:39.454Z] [INFO] POST /api/v1/user/getUserData
+[2024-05-14T18:36:05.638Z] [INFO] POST /api/v1/user/getUserData
+[2024-05-14T18:39:24.970Z] [INFO] POST /api/v1/user/getUserData
+[2024-05-14T18:39:24.976Z] [INFO] POST /api/v1/user/getUserData
+[2024-05-14T18:39:50.179Z] [INFO] POST /api/v1/user/getUserData
+[2024-05-14T18:39:50.185Z] [INFO] POST /api/v1/user/getUserData
+[2024-05-14T18:41:59.464Z] [INFO] [37m[46mServer Running in development Mode on Port 8080[49m[39m
+[2024-05-14T18:42:04.314Z] [INFO] POST /api/v1/user/getUserData
+[2024-05-14T18:42:04.319Z] [INFO] POST /api/v1/user/getUserData
+[2024-05-14T18:42:40.167Z] [INFO] POST /api/v1/user/register
+[2024-05-14T18:42:54.804Z] [INFO] POST /api/v1/user/login
+[2024-05-14T18:42:55.309Z] [INFO] POST /api/v1/user/getUserData
+[2024-05-14T18:42:55.319Z] [INFO] POST /api/v1/user/getUserData
+[2024-05-14T18:43:09.774Z] [INFO] POST /api/v1/user/getUserData
+[2024-05-14T18:43:09.780Z] [INFO] POST /api/v1/user/getUserData
+[2024-05-14T19:05:40.630Z] [INFO] [37m[46mServer Running in development Mode on Port 8080[49m[39m
+[2024-05-14T19:05:56.876Z] [INFO] POST /api/v1/user/getUserData
+[2024-05-14T19:05:56.897Z] [INFO] POST /api/v1/user/getUserData
+[2024-05-14T19:13:52.193Z] [INFO] POST /api/v1/user/getUserData
+[2024-05-14T19:13:52.199Z] [INFO] POST /api/v1/user/getUserData
+[2024-05-14T19:13:55.997Z] [INFO] POST /api/v1/user/getUserData
+[2024-05-14T19:13:56.003Z] [INFO] POST /api/v1/user/getUserData
+[2024-05-14T19:15:04.620Z] [INFO] POST /api/v1/user/getUserData
+[2024-05-14T19:15:04.643Z] [INFO] POST /api/v1/user/getUserData
+[2024-05-14T19:15:17.124Z] [INFO] POST /api/v1/user/getUserData
+[2024-05-14T19:15:17.130Z] [INFO] POST /api/v1/user/getUserData
+[2024-05-14T19:15:20.831Z] [INFO] POST /api/v1/user/getUserData
+[2024-05-14T19:15:21.010Z] [INFO] POST /api/v1/user/getUserData
+[2024-05-14T19:18:20.853Z] [INFO] POST /api/v1/user/getUserData
+[2024-05-14T19:18:21.061Z] [INFO] POST /api/v1/user/getUserData
+[2024-05-14T19:23:32.779Z] [INFO] POST /api/v1/user/getUserData
+[2024-05-14T19:23:32.785Z] [INFO] POST /api/v1/user/getUserData
+[2024-05-14T19:39:28.655Z] [INFO] POST /api/v1/user/getUserData
+[2024-05-14T19:39:28.657Z] [INFO] POST /api/v1/user/getUserData
+[2024-05-14T19:40:23.655Z] [INFO] POST /api/v1/user/getUserData
+[2024-05-14T19:40:23.660Z] [INFO] POST /api/v1/user/getUserData
+[2024-05-14T19:40:31.632Z] [INFO] POST /api/v1/user/getUserData
+[2024-05-14T19:40:31.634Z] [INFO] POST /api/v1/user/getUserData
+[2024-05-14T19:42:06.653Z] [INFO] POST /api/v1/user/getUserData
+[2024-05-14T19:42:06.658Z] [INFO] POST /api/v1/user/getUserData
+[2024-05-14T19:42:40.650Z] [INFO] POST /api/v1/user/getUserData
+[2024-05-14T19:42:40.653Z] [INFO] POST /api/v1/user/getUserData
+[2024-05-14T19:45:21.629Z] [INFO] POST /api/v1/user/getUserData
+[2024-05-14T19:45:21.631Z] [INFO] POST /api/v1/user/getUserData
+[2024-05-14T19:49:46.629Z] [INFO] [37m[46mServer Running in development Mode on Port 8080[49m[39m
+[2024-05-14T19:50:00.838Z] [INFO] POST /api/v1/user/getUserData
+[2024-05-14T19:50:00.852Z] [INFO] POST /api/v1/user/getUserData
+[2024-05-14T19:50:03.701Z] [INFO] POST /api/v1/user/getUserData
+[2024-05-14T19:50:03.935Z] [INFO] POST /api/v1/user/getUserData
+[2024-05-14T19:53:42.555Z] [INFO] POST /api/v1/user/getUserData
+[2024-05-14T19:53:42.558Z] [INFO] POST /api/v1/user/getUserData
+[2024-05-14T19:54:38.137Z] [INFO] POST /api/v1/user/getUserData
+[2024-05-14T19:54:38.141Z] [INFO] POST /api/v1/user/getUserData
+[2024-05-14T19:56:38.592Z] [INFO] POST /api/v1/user/getUserData
+[2024-05-14T19:56:38.595Z] [INFO] POST /api/v1/user/getUserData
+[2024-05-14T19:57:32.431Z] [INFO] POST /api/v1/user/getUserData
+[2024-05-14T19:57:32.464Z] [INFO] POST /api/v1/user/getUserData
+[2024-05-14T19:57:43.221Z] [INFO] POST /api/v1/user/getUserData
+[2024-05-14T19:57:43.223Z] [INFO] POST /api/v1/user/getUserData
+[2024-05-14T20:05:04.586Z] [INFO] [37m[46mServer Running in development Mode on Port 8080[49m[39m
+[2024-05-14T20:05:10.535Z] [INFO] POST /api/v1/user/getUserData
+[2024-05-14T20:05:10.540Z] [INFO] POST /api/v1/user/getUserData
+[2024-05-14T21:08:15.040Z] [INFO] [37m[46mServer Running in development Mode on Port 8080[49m[39m
+[2024-05-14T21:08:22.289Z] [INFO] POST /api/v1/user/getUserData
+[2024-05-14T21:08:22.297Z] [INFO] POST /api/v1/user/getUserData
+[2024-05-14T21:08:43.566Z] [INFO] POST /api/v1/user/getUserData
+[2024-05-14T21:08:43.626Z] [INFO] POST /api/v1/user/getUserData
+[2024-05-14T21:10:31.207Z] [INFO] POST /api/v1/user/getUserData
+[2024-05-14T21:10:31.212Z] [INFO] POST /api/v1/user/getUserData
+[2024-05-14T21:12:43.887Z] [INFO] [37m[46mServer Running in development Mode on Port 8080[49m[39m
+[2024-05-14T21:12:48.918Z] [INFO] POST /api/v1/user/getUserData
+[2024-05-14T21:12:48.925Z] [INFO] POST /api/v1/user/getUserData
+[2024-05-14T21:12:59.210Z] [INFO] GET /main.faf42570bfdbb6c98129.hot-update.json
+[2024-05-14T21:13:00.040Z] [INFO] POST /api/v1/user/getUserData
+[2024-05-14T21:13:00.045Z] [INFO] POST /api/v1/user/getUserData
+[2024-05-14T21:13:27.258Z] [INFO] POST /api/v1/user/register
+[2024-05-14T21:13:37.889Z] [INFO] POST /api/v1/user/login
+[2024-05-14T21:13:46.657Z] [INFO] POST /api/v1/user/login
+[2024-05-14T21:13:47.180Z] [INFO] POST /api/v1/user/getUserData
+[2024-05-14T21:13:47.191Z] [INFO] POST /api/v1/user/getUserData
+[2024-05-14T21:16:46.044Z] [INFO] POST /api/v1/user/getUserData
+[2024-05-14T21:16:46.075Z] [INFO] POST /api/v1/user/getUserData
+[2024-05-14T21:17:29.861Z] [INFO] POST /api/v1/user/login
+[2024-05-14T21:18:04.354Z] [INFO] POST /api/v1/user/login
+[2024-05-14T21:18:04.612Z] [INFO] POST /api/v1/user/getUserData
+[2024-05-14T21:18:04.901Z] [INFO] POST /api/v1/user/getUserData
+[2024-05-14T21:18:14.407Z] [INFO] POST /api/v1/user/getUserData
+[2024-05-14T21:18:14.715Z] [INFO] POST /api/v1/user/getUserData
+[2024-05-14T21:18:15.727Z] [INFO] POST /api/v1/user/getUserData
+[2024-05-14T21:18:15.732Z] [INFO] POST /api/v1/user/getUserData
+[2024-05-14T21:29:00.641Z] [INFO] POST /api/v1/user/getUserData
+[2024-05-14T21:29:00.645Z] [INFO] POST /api/v1/user/getUserData
+[2024-05-14T21:29:21.658Z] [INFO] POST /api/v1/user/getUserData
+[2024-05-14T21:29:21.663Z] [INFO] POST /api/v1/user/getUserData
+[2024-05-14T21:29:38.649Z] [INFO] POST /api/v1/user/getUserData
+[2024-05-14T21:29:38.654Z] [INFO] POST /api/v1/user/getUserData
+[2024-05-14T21:29:49.638Z] [INFO] POST /api/v1/user/getUserData
+[2024-05-14T21:29:49.642Z] [INFO] POST /api/v1/user/getUserData
+[2024-05-14T21:31:56.639Z] [INFO] POST /api/v1/user/getUserData
+[2024-05-14T21:31:56.642Z] [INFO] POST /api/v1/user/getUserData
+[2024-05-14T21:33:03.630Z] [INFO] POST /api/v1/user/getUserData
+[2024-05-14T21:33:03.638Z] [INFO] POST /api/v1/user/getUserData
+[2024-05-14T21:51:14.315Z] [INFO] [37m[46mServer Running in development Mode on Port 8080[49m[39m
+[2024-05-15T02:42:09.160Z] [INFO] POST /api/v1/user/getUserData
+[2024-05-15T02:42:09.198Z] [INFO] POST /api/v1/user/getUserData
+[2024-05-15T02:42:21.269Z] [INFO] POST /api/v1/user/getUserData
+[2024-05-15T02:42:21.277Z] [INFO] POST /api/v1/user/getUserData
+[2024-05-15T02:42:27.544Z] [INFO] POST /api/v1/user/getUserData
+[2024-05-15T02:42:27.760Z] [INFO] POST /api/v1/user/getUserData
+[2024-05-15T02:55:26.638Z] [INFO] POST /api/v1/user/getUserData
+[2024-05-15T02:55:26.640Z] [INFO] POST /api/v1/user/getUserData
+[2024-05-15T02:56:45.639Z] [INFO] POST /api/v1/user/getUserData
+[2024-05-15T02:56:45.724Z] [INFO] POST /api/v1/user/getUserData
+[2024-05-15T02:57:50.638Z] [INFO] POST /api/v1/user/getUserData
+[2024-05-15T02:57:50.641Z] [INFO] POST /api/v1/user/getUserData
+[2024-05-15T02:58:53.646Z] [INFO] POST /api/v1/user/getUserData
+[2024-05-15T02:58:53.948Z] [INFO] POST /api/v1/user/getUserData
+[2024-05-15T02:59:09.633Z] [INFO] POST /api/v1/user/getUserData
+[2024-05-15T02:59:09.637Z] [INFO] POST /api/v1/user/getUserData
+[2024-05-15T02:59:26.645Z] [INFO] POST /api/v1/user/getUserData
+[2024-05-15T02:59:26.962Z] [INFO] POST /api/v1/user/getUserData
+[2024-05-15T02:59:51.632Z] [INFO] POST /api/v1/user/getUserData
+[2024-05-15T02:59:51.638Z] [INFO] POST /api/v1/user/getUserData
+[2024-05-15T03:00:13.638Z] [INFO] POST /api/v1/user/getUserData
+[2024-05-15T03:00:13.641Z] [INFO] POST /api/v1/user/getUserData
+[2024-05-15T03:01:25.636Z] [INFO] POST /api/v1/user/getUserData
+[2024-05-15T03:01:25.955Z] [INFO] POST /api/v1/user/getUserData
+[2024-05-15T03:02:13.108Z] [INFO] POST /api/v1/user/getUserData
+[2024-05-15T03:02:13.113Z] [INFO] POST /api/v1/user/getUserData
+[2024-05-15T03:02:16.040Z] [INFO] POST /api/v1/user/getUserData
+[2024-05-15T03:02:16.257Z] [INFO] POST /api/v1/user/getUserData
+[2024-05-15T03:04:01.117Z] [INFO] POST /api/v1/user/login
+[2024-05-15T03:04:01.626Z] [INFO] POST /api/v1/user/getUserData
+[2024-05-15T03:04:01.632Z] [INFO] POST /api/v1/user/getUserData
+[2024-05-15T03:04:21.817Z] [INFO] POST /api/v1/user/getUserData
+[2024-05-15T03:04:22.068Z] [INFO] POST /api/v1/user/getUserData
+[2024-05-15T03:04:23.339Z] [INFO] POST /api/v1/user/getUserData
+[2024-05-15T03:04:23.587Z] [INFO] POST /api/v1/user/getUserData
+[2024-05-15T03:04:38.270Z] [INFO] POST /api/v1/user/getUserData
+[2024-05-15T03:04:38.496Z] [INFO] POST /api/v1/user/getUserData
+[2024-05-15T03:04:40.099Z] [INFO] POST /api/v1/user/getUserData
+[2024-05-15T03:04:40.104Z] [INFO] POST /api/v1/user/getUserData
+[2024-05-15T03:10:38.627Z] [INFO] POST /api/v1/user/getUserData
+[2024-05-15T03:10:49.634Z] [INFO] POST /api/v1/user/getUserData
+[2024-05-15T03:11:05.717Z] [INFO] POST /api/v1/user/getUserData
+[2024-05-15T03:11:05.720Z] [INFO] POST /api/v1/user/getUserData
+[2024-05-15T03:17:16.798Z] [INFO] POST /api/v1/user/getUserData
+[2024-05-15T03:17:16.801Z] [INFO] POST /api/v1/user/getUserData
+[2024-05-15T03:17:17.823Z] [INFO] POST /api/v1/user/getUserData
+[2024-05-15T03:17:18.072Z] [INFO] POST /api/v1/user/getUserData
+[2024-05-15T03:48:41.210Z] [INFO] POST /api/v1/user/getUserData
+[2024-05-15T03:48:41.215Z] [INFO] POST /api/v1/user/getUserData
+[2024-05-15T03:49:09.079Z] [INFO] POST /api/v1/user/getUserData
+[2024-05-15T03:49:09.118Z] [INFO] POST /api/v1/user/getUserData
+[2024-05-15T03:49:19.537Z] [INFO] POST /api/v1/user/getUserData
+[2024-05-15T03:49:19.841Z] [INFO] POST /api/v1/user/getUserData
+[2024-05-15T03:57:59.744Z] [INFO] POST /api/v1/user/getUserData
+[2024-05-15T03:57:59.747Z] [INFO] POST /api/v1/user/getUserData
+[2024-05-15T03:58:45.527Z] [INFO] POST /api/v1/user/getUserData
+[2024-05-15T03:58:45.533Z] [INFO] POST /api/v1/user/getUserData
+[2024-05-15T03:58:46.653Z] [INFO] POST /api/v1/user/getUserData
+[2024-05-15T03:58:46.659Z] [INFO] POST /api/v1/user/getUserData
+[2024-05-15T03:59:27.515Z] [INFO] POST /api/v1/user/getUserData
+[2024-05-15T03:59:27.744Z] [INFO] POST /api/v1/user/getUserData
+[2024-05-15T03:59:53.604Z] [INFO] POST /api/v1/user/getUserData
+[2024-05-15T03:59:53.644Z] [INFO] POST /api/v1/user/getUserData
+[2024-05-15T04:00:25.191Z] [INFO] POST /api/v1/user/getUserData
+[2024-05-15T04:00:25.198Z] [INFO] POST /api/v1/user/getUserData
+[2024-05-15T04:03:35.821Z] [INFO] POST /api/v1/user/getUserData
+[2024-05-15T04:03:35.824Z] [INFO] POST /api/v1/user/getUserData
+[2024-05-15T04:03:39.945Z] [INFO] POST /api/v1/user/getUserData
+[2024-05-15T04:03:39.950Z] [INFO] POST /api/v1/user/getUserData
+[2024-05-15T04:03:45.816Z] [INFO] POST /api/v1/user/getUserData
+[2024-05-15T04:03:45.820Z] [INFO] POST /api/v1/user/getUserData
+[2024-05-15T04:03:52.572Z] [INFO] POST /api/v1/user/getUserData
+[2024-05-15T04:03:52.575Z] [INFO] POST /api/v1/user/getUserData
+[2024-05-15T04:04:07.478Z] [INFO] POST /api/v1/user/getUserData
+[2024-05-15T04:04:07.483Z] [INFO] POST /api/v1/user/getUserData
+[2024-05-15T04:04:11.900Z] [INFO] POST /api/v1/user/getUserData
+[2024-05-15T04:04:11.906Z] [INFO] POST /api/v1/user/getUserData
+[2024-05-15T04:04:13.725Z] [INFO] POST /api/v1/user/getUserData
+[2024-05-15T04:04:13.730Z] [INFO] POST /api/v1/user/getUserData
+[2024-05-15T04:04:21.951Z] [INFO] POST /api/v1/user/getUserData
+[2024-05-15T04:04:21.960Z] [INFO] POST /api/v1/user/getUserData
+[2024-05-15T04:04:28.874Z] [INFO] POST /api/v1/user/getUserData
+[2024-05-15T04:04:28.879Z] [INFO] POST /api/v1/user/getUserData
+[2024-05-15T08:24:43.194Z] [INFO] [37m[46mServer Running in development Mode on Port 8080[49m[39m
+[2024-05-15T08:24:54.949Z] [INFO] POST /api/v1/user/getUserData
+[2024-05-15T08:24:54.964Z] [INFO] POST /api/v1/user/getUserData
+[2024-05-15T08:27:05.973Z] [INFO] POST /api/v1/user/login
+[2024-05-15T08:27:06.209Z] [INFO] POST /api/v1/user/getUserData
+[2024-05-15T08:27:06.472Z] [INFO] POST /api/v1/user/getUserData
+[2024-05-15T08:27:14.850Z] [INFO] POST /api/v1/user/getUserData
+[2024-05-15T08:27:14.856Z] [INFO] POST /api/v1/user/getUserData
+[2024-05-15T08:38:44.112Z] [INFO] POST /api/v1/user/getUserData
+[2024-05-15T08:38:44.118Z] [INFO] POST /api/v1/user/getUserData
+[2024-05-15T08:40:14.834Z] [INFO] POST /api/v1/user/getUserData
+[2024-05-15T08:40:14.839Z] [INFO] POST /api/v1/user/getUserData
+[2024-05-15T08:42:34.907Z] [INFO] POST /api/v1/user/getUserData
+[2024-05-15T08:42:34.914Z] [INFO] POST /api/v1/user/getUserData
+[2024-05-15T08:42:35.234Z] [INFO] POST /api/v1/user/getUserData
+[2024-05-15T08:42:35.236Z] [INFO] POST /api/v1/user/getUserData
+[2024-05-15T08:42:35.245Z] [INFO] POST /api/v1/user/getUserData
+[2024-05-15T08:42:35.251Z] [INFO] POST /api/v1/user/getUserData
+[2024-05-15T08:55:07.904Z] [INFO] POST /api/v1/user/getUserData
+[2024-05-15T08:55:07.909Z] [INFO] POST /api/v1/user/getUserData
+[2024-05-15T08:57:25.665Z] [INFO] POST /api/v1/user/getUserData
+[2024-05-15T08:57:25.673Z] [INFO] POST /api/v1/user/getUserData
+[2024-05-15T08:57:25.679Z] [INFO] POST /api/v1/user/getUserData
+[2024-05-15T08:57:25.979Z] [INFO] POST /api/v1/user/getUserData
+[2024-05-15T08:57:25.985Z] [INFO] POST /api/v1/user/getUserData
+[2024-05-15T08:57:26.032Z] [INFO] POST /api/v1/user/getUserData
+[2024-05-15T08:57:47.028Z] [INFO] POST /api/v1/user/getUserData
+[2024-05-15T08:57:47.034Z] [INFO] POST /api/v1/user/getUserData
+[2024-05-15T08:57:59.169Z] [INFO] POST /api/v1/user/login
+[2024-05-15T08:57:59.430Z] [INFO] POST /api/v1/user/getUserData
+[2024-05-15T08:57:59.646Z] [INFO] POST /api/v1/user/getUserData
+[2024-05-15T08:57:59.650Z] [INFO] POST /api/v1/user/getUserData
+[2024-05-15T08:57:59.655Z] [INFO] POST /api/v1/user/getUserData
+[2024-05-15T08:57:59.683Z] [INFO] POST /api/v1/user/getUserData
+[2024-05-15T08:57:59.994Z] [INFO] POST /api/v1/user/getUserData
+[2024-05-15T08:59:59.816Z] [INFO] POST /api/v1/user/getUserData
+[2024-05-15T08:59:59.846Z] [INFO] POST /api/v1/user/getUserData
+[2024-05-15T09:00:00.136Z] [INFO] POST /api/v1/user/getUserData
+[2024-05-15T09:00:00.141Z] [INFO] POST /api/v1/user/getUserData
+[2024-05-15T09:00:00.150Z] [INFO] POST /api/v1/user/getUserData
+[2024-05-15T09:00:00.156Z] [INFO] POST /api/v1/user/getUserData
+[2024-05-15T09:00:05.136Z] [INFO] POST /api/v1/user/getUserData
+[2024-05-15T09:00:05.144Z] [INFO] POST /api/v1/user/getUserData
+[2024-05-15T09:11:23.831Z] [INFO] POST /api/v1/user/getUserData
+[2024-05-15T09:11:23.838Z] [INFO] POST /api/v1/user/getUserData
+[2024-05-15T09:11:23.845Z] [INFO] POST /api/v1/user/getUserData
+[2024-05-15T09:11:24.148Z] [INFO] POST /api/v1/user/getUserData
+[2024-05-15T09:11:24.158Z] [INFO] POST /api/v1/user/getUserData
+[2024-05-15T09:11:24.213Z] [INFO] POST /api/v1/user/getUserData
+[2024-05-15T09:11:51.146Z] [INFO] POST /api/v1/user/register
+[2024-05-15T09:14:52.336Z] [ERROR] Failed to start the server: Error: Unable to connect to the database:
+[2024-05-15T09:15:05.870Z] [ERROR] Failed to start the server: Error: Unable to connect to the database:
+[2024-05-15T09:17:54.472Z] [ERROR] Failed to start the server: Error: Unable to connect to the database:
+[2024-05-15T09:19:49.603Z] [ERROR] Failed to start the server: Error: Unable to connect to the database:
+[2024-05-15T09:21:33.564Z] [ERROR] Failed to start the server: Error: Unable to connect to the database:
+[2024-05-15T09:23:06.596Z] [INFO] [37m[46mServer Running in development Mode on Port 8080[49m[39m
+[2024-05-15T09:23:41.265Z] [INFO] [37m[46mServer Running in development Mode on Port 8080[49m[39m
+[2024-05-15T09:23:46.118Z] [INFO] POST /api/v1/user/getUserData
+[2024-05-15T09:23:46.124Z] [INFO] POST /api/v1/user/getUserData
+[2024-05-15T09:25:46.031Z] [INFO] POST /api/v1/user/register
+[2024-05-15T09:26:58.336Z] [INFO] POST /api/v1/user/login
+[2024-05-15T09:26:58.600Z] [INFO] POST /api/v1/user/getUserData
+[2024-05-15T09:26:58.820Z] [INFO] POST /api/v1/user/getUserData
+[2024-05-15T09:26:58.827Z] [INFO] POST /api/v1/user/getUserData
+[2024-05-15T09:26:58.835Z] [INFO] POST /api/v1/user/getUserData
+[2024-05-15T09:26:58.854Z] [INFO] POST /api/v1/user/getUserData
+[2024-05-15T09:26:59.169Z] [INFO] POST /api/v1/user/getUserData
+[2024-05-15T09:27:11.131Z] [INFO] POST /api/v1/user/login
+[2024-05-15T09:27:11.377Z] [INFO] POST /api/v1/user/getUserData
+[2024-05-15T09:27:11.623Z] [INFO] POST /api/v1/user/getUserData
+[2024-05-15T09:27:11.631Z] [INFO] POST /api/v1/user/getUserData
+[2024-05-15T09:27:11.644Z] [INFO] POST /api/v1/user/getUserData
+[2024-05-15T09:27:11.672Z] [INFO] POST /api/v1/user/getUserData
+[2024-05-15T09:27:11.980Z] [INFO] POST /api/v1/user/getUserData
+[2024-05-15T09:28:24.207Z] [INFO] [37m[46mServer Running in development Mode on Port 8080[49m[39m
+[2024-05-15T09:28:29.232Z] [INFO] POST /api/v1/user/getUserData
+[2024-05-15T09:28:29.238Z] [INFO] POST /api/v1/user/getUserData
+[2024-05-15T09:28:36.708Z] [INFO] POST /api/v1/user/login
+[2024-05-15T09:28:36.970Z] [INFO] POST /api/v1/user/getUserData
+[2024-05-15T09:28:37.242Z] [INFO] POST /api/v1/user/getUserData
+[2024-05-15T09:28:37.270Z] [INFO] POST /api/v1/user/getUserData
+[2024-05-15T09:28:37.282Z] [INFO] POST /api/v1/user/getUserData
+[2024-05-15T09:28:37.294Z] [INFO] POST /api/v1/user/getUserData
+[2024-05-15T09:28:37.594Z] [INFO] POST /api/v1/user/getUserData
+[2024-05-15T09:28:42.864Z] [INFO] POST /api/v1/user/getUserData
+[2024-05-15T09:28:42.872Z] [INFO] POST /api/v1/user/getUserData
+[2024-05-15T09:28:43.029Z] [INFO] POST /api/v1/user/getUserData
+[2024-05-15T09:28:43.162Z] [INFO] POST /api/v1/user/getUserData
+[2024-05-15T09:28:43.196Z] [INFO] POST /api/v1/user/getUserData
+[2024-05-15T09:28:43.206Z] [INFO] POST /api/v1/user/getUserData
+[2024-05-15T09:28:57.662Z] [INFO] POST /api/v1/user/getUserData
+[2024-05-15T09:28:57.669Z] [INFO] POST /api/v1/user/getUserData
+[2024-05-15T09:28:57.964Z] [INFO] POST /api/v1/user/getUserData
+[2024-05-15T09:28:57.968Z] [INFO] POST /api/v1/user/getUserData
+[2024-05-15T09:28:58.017Z] [INFO] POST /api/v1/user/getUserData
+[2024-05-15T09:28:58.023Z] [INFO] POST /api/v1/user/getUserData
+[2024-05-15T09:29:36.683Z] [INFO] POST /api/v1/user/getUserData
+[2024-05-15T09:29:36.687Z] [INFO] POST /api/v1/user/getUserData
+[2024-05-15T09:29:36.878Z] [INFO] POST /api/v1/user/getUserData
+[2024-05-15T09:29:36.986Z] [INFO] POST /api/v1/user/getUserData
+[2024-05-15T09:29:37.020Z] [INFO] POST /api/v1/user/getUserData
+[2024-05-15T09:29:37.025Z] [INFO] POST /api/v1/user/getUserData
+[2024-05-15T09:30:25.206Z] [INFO] POST /api/v1/user/register
+[2024-05-15T09:30:47.376Z] [INFO] POST /api/v1/user/register
+[2024-05-15T09:31:15.131Z] [INFO] POST /api/v1/user/register
+[2024-05-15T09:37:05.145Z] [INFO] [37m[46mServer Running in development Mode on Port 8080[49m[39m
+[2024-05-15T09:37:09.844Z] [INFO] POST /api/v1/user/getUserData
+[2024-05-15T09:37:09.855Z] [INFO] POST /api/v1/user/getUserData
+[2024-05-15T09:37:41.737Z] [INFO] POST /api/v1/user/register
+[2024-05-15T09:38:56.223Z] [ERROR] Failed to start the server: Error: Unable to connect to the database:
+[2024-05-15T09:39:35.187Z] [ERROR] Failed to start the server: Error: Unable to connect to the database:
+[2024-05-15T09:39:58.205Z] [INFO] [37m[46mServer Running in development Mode on Port 8080[49m[39m
+[2024-05-15T09:40:13.181Z] [INFO] [37m[46mServer Running in development Mode on Port 8080[49m[39m
+[2024-05-15T09:40:17.911Z] [INFO] POST /api/v1/user/getUserData
+[2024-05-15T09:40:17.917Z] [INFO] POST /api/v1/user/getUserData
+[2024-05-15T09:41:10.080Z] [INFO] POST /api/v1/user/register
+[2024-05-15T09:41:25.646Z] [INFO] POST /api/v1/user/register
+[2024-05-15T09:45:11.796Z] [INFO] POST /api/v1/user/login
+[2024-05-15T09:45:11.969Z] [INFO] POST /api/v1/user/getUserData
+[2024-05-15T09:45:12.275Z] [INFO] POST /api/v1/user/getUserData
+[2024-05-15T09:45:12.280Z] [INFO] POST /api/v1/user/getUserData
+[2024-05-15T09:45:12.285Z] [INFO] POST /api/v1/user/getUserData
+[2024-05-15T09:45:12.628Z] [INFO] POST /api/v1/user/getUserData
+[2024-05-15T09:45:12.633Z] [INFO] POST /api/v1/user/getUserData
+[2024-05-15T09:46:41.014Z] [INFO] [37m[46mServer Running in development Mode on Port 8080[49m[39m
+[2024-05-15T09:47:01.816Z] [ERROR] Failed to start the server: Error: Unable to connect to the database:
+[2024-05-15T09:49:05.849Z] [ERROR] Failed to start the server: Error: Unable to connect to the database:
+[2024-05-15T09:49:31.997Z] [ERROR] Failed to start the server: Error: Unable to connect to the database:
+[2024-05-15T09:49:55.398Z] [ERROR] Failed to start the server: Error: Unable to connect to the database:
+[2024-05-15T09:52:08.818Z] [ERROR] Failed to start the server: Error: Unable to connect to the database:
+[2024-05-15T09:53:00.480Z] [INFO] [37m[46mServer Running in development Mode on Port 8080[49m[39m
+[2024-05-15T09:54:10.192Z] [INFO] [37m[46mServer Running in development Mode on Port 8080[49m[39m
+[2024-05-15T09:54:14.931Z] [INFO] POST /api/v1/user/getUserData
+[2024-05-15T09:54:14.937Z] [INFO] POST /api/v1/user/getUserData
+[2024-05-15T09:54:14.946Z] [INFO] POST /api/v1/user/getUserData
+[2024-05-15T09:54:15.235Z] [INFO] POST /api/v1/user/getUserData
+[2024-05-15T09:54:15.268Z] [INFO] POST /api/v1/user/getUserData
+[2024-05-15T09:54:15.299Z] [INFO] POST /api/v1/user/getUserData
+[2024-05-15T09:54:33.299Z] [INFO] POST /api/v1/user/register
+[2024-05-15T09:54:53.199Z] [INFO] POST /api/v1/user/register
+[2024-05-15T09:55:03.146Z] [INFO] POST /api/v1/user/login
+[2024-05-15T09:55:03.654Z] [INFO] POST /api/v1/user/getUserData
+[2024-05-15T09:55:03.662Z] [INFO] POST /api/v1/user/getUserData
+[2024-05-15T09:55:03.670Z] [INFO] POST /api/v1/user/getUserData
+[2024-05-15T09:55:03.680Z] [INFO] POST /api/v1/user/getUserData
+[2024-05-15T09:55:03.895Z] [INFO] POST /api/v1/user/getUserData
+[2024-05-15T09:55:04.038Z] [INFO] POST /api/v1/user/getUserData
+[2024-05-15T09:59:03.358Z] [INFO] POST /api/v1/user/getUserData
+[2024-05-15T09:59:03.361Z] [INFO] POST /api/v1/user/getUserData
+[2024-05-15T09:59:06.416Z] [INFO] POST /api/v1/user/getUserData
+[2024-05-15T09:59:06.721Z] [INFO] POST /api/v1/user/getUserData
+[2024-05-15T11:43:19.506Z] [INFO] [37m[46mServer Running in development Mode on Port 8080[49m[39m
+[2024-05-15T11:43:25.006Z] [INFO] POST /api/v1/user/getUserData
+[2024-05-15T11:43:25.013Z] [INFO] POST /api/v1/user/getUserData
+[2024-05-15T11:43:25.020Z] [INFO] POST /api/v1/user/getUserData
+[2024-05-15T11:43:25.309Z] [INFO] POST /api/v1/user/getUserData
+[2024-05-15T11:43:25.362Z] [INFO] POST /api/v1/user/getUserData
+[2024-05-15T11:43:25.365Z] [INFO] POST /api/v1/user/getUserData
+[2024-05-15T11:43:34.674Z] [INFO] POST /api/v1/user/getUserData
+[2024-05-15T11:43:34.680Z] [INFO] POST /api/v1/user/getUserData
+[2024-05-15T11:44:35.793Z] [INFO] POST /api/v1/user/getUserData
+[2024-05-15T11:44:35.850Z] [INFO] POST /api/v1/user/getUserData
+[2024-05-15T11:44:59.612Z] [INFO] POST /api/v1/user/register
+[2024-05-15T12:16:42.627Z] [INFO] POST /api/v1/user/register
+[2024-05-15T12:23:43.083Z] [INFO] POST /api/v1/user/login
+[2024-05-15T12:23:43.576Z] [INFO] POST /api/v1/user/getUserData
+[2024-05-15T12:23:43.585Z] [INFO] POST /api/v1/user/getUserData
+[2024-05-15T12:23:43.592Z] [INFO] POST /api/v1/user/getUserData
+[2024-05-15T12:23:43.597Z] [INFO] POST /api/v1/user/getUserData
+[2024-05-15T12:23:43.829Z] [INFO] POST /api/v1/user/getUserData
+[2024-05-15T12:23:43.940Z] [INFO] POST /api/v1/user/getUserData
+[2024-05-15T12:35:18.702Z] [INFO] POST /api/v1/user/getUserData
+[2024-05-15T12:35:18.709Z] [INFO] POST /api/v1/user/getUserData
+[2024-05-15T12:35:18.718Z] [INFO] POST /api/v1/user/getUserData
+[2024-05-15T12:35:18.869Z] [INFO] POST /api/v1/user/getUserData
+[2024-05-15T12:35:18.876Z] [INFO] POST /api/v1/user/getUserData
+[2024-05-15T12:35:19.132Z] [INFO] POST /api/v1/user/getUserData
+[2024-05-15T12:35:38.023Z] [INFO] POST /api/v1/user/getUserData
+[2024-05-15T12:35:38.029Z] [INFO] POST /api/v1/user/getUserData
+[2024-05-15T12:35:38.333Z] [INFO] POST /api/v1/user/getUserData
+[2024-05-15T12:35:38.342Z] [INFO] POST /api/v1/user/getUserData
+[2024-05-15T12:35:38.371Z] [INFO] POST /api/v1/user/getUserData
+[2024-05-15T12:35:38.400Z] [INFO] POST /api/v1/user/getUserData
+[2024-05-15T12:36:00.329Z] [INFO] POST /api/v1/user/getUserData
+[2024-05-15T12:36:00.332Z] [INFO] POST /api/v1/user/getUserData
+[2024-05-15T12:36:00.637Z] [INFO] POST /api/v1/user/getUserData
+[2024-05-15T12:36:00.640Z] [INFO] POST /api/v1/user/getUserData
+[2024-05-15T12:36:00.680Z] [INFO] POST /api/v1/user/getUserData
+[2024-05-15T12:36:00.694Z] [INFO] POST /api/v1/user/getUserData
+[2024-05-15T12:36:40.364Z] [INFO] POST /api/v1/user/getUserData
+[2024-05-15T12:36:40.367Z] [INFO] POST /api/v1/user/getUserData
+[2024-05-15T12:36:40.677Z] [INFO] POST /api/v1/user/getUserData
+[2024-05-15T12:36:40.682Z] [INFO] POST /api/v1/user/getUserData
+[2024-05-15T12:36:40.712Z] [INFO] POST /api/v1/user/getUserData
+[2024-05-15T12:36:40.717Z] [INFO] POST /api/v1/user/getUserData
+[2024-05-15T12:37:34.625Z] [INFO] POST /api/v1/user/getUserData
+[2024-05-15T12:37:34.628Z] [INFO] POST /api/v1/user/getUserData
+[2024-05-15T12:38:14.910Z] [INFO] POST /api/v1/user/register
+[2024-05-15T12:38:32.867Z] [INFO] POST /api/v1/user/register
+[2024-05-15T13:26:16.747Z] [INFO] [37m[46mServer Running in development Mode on Port 8080[49m[39m
+[2024-05-15T13:29:30.982Z] [INFO] POST //api/v1/user/register
+[2024-05-15T13:30:47.952Z] [INFO] POST //api/v1/user/register
+[2024-05-15T13:32:55.366Z] [INFO] POST /api/v1/user/register
+[2024-05-15T13:40:38.805Z] [INFO] [37m[46mServer Running in development Mode on Port 8080[49m[39m
+[2024-05-15T13:43:40.508Z] [INFO] GET /main.4dceccf8ee9e2bb1a7fe.hot-update.json
+[2024-05-15T13:43:41.224Z] [INFO] POST /api/v1/user/getUserData
+[2024-05-15T13:43:41.507Z] [INFO] POST /api/v1/user/getUserData
+[2024-05-15T13:48:24.444Z] [INFO] POST /api/v1/user/login
+[2024-05-15T13:48:24.697Z] [INFO] POST /api/v1/user/getUserData
+[2024-05-15T13:48:24.968Z] [INFO] POST /api/v1/user/getUserData
+[2024-05-15T13:48:24.976Z] [INFO] POST /api/v1/user/getUserData
+[2024-05-15T13:48:24.984Z] [INFO] POST /api/v1/user/getUserData
+[2024-05-15T13:48:25.008Z] [INFO] POST /api/v1/user/getUserData
+[2024-05-15T13:48:25.318Z] [INFO] POST /api/v1/user/getUserData
+[2024-05-15T13:48:36.739Z] [INFO] POST /api/v1/user/getUserData
+[2024-05-15T13:48:37.044Z] [INFO] POST /api/v1/user/getUserData
+[2024-05-15T13:57:26.792Z] [INFO] POST /api/v1/user/getUserData
+[2024-05-15T13:57:26.802Z] [INFO] POST /api/v1/user/getUserData
+[2024-05-15T13:57:27.267Z] [INFO] POST /api/v1/user/getUserData
+[2024-05-15T13:57:27.272Z] [INFO] POST /api/v1/user/getUserData
+[2024-05-15T13:57:27.277Z] [INFO] POST /api/v1/user/getUserData
+[2024-05-15T13:57:27.286Z] [INFO] POST /api/v1/user/getUserData
+[2024-05-15T14:01:27.137Z] [INFO] [37m[46mServer Running in development Mode on Port 8080[49m[39m
+[2024-05-15T14:02:06.057Z] [ERROR] Failed to start the server: Error: Unable to connect to the database:
+[2024-05-15T14:04:00.567Z] [INFO] [37m[46mServer Running in development Mode on Port 8080[49m[39m
+[2024-05-15T14:04:05.675Z] [INFO] POST /api/v1/user/register
+[2024-05-15T14:07:20.095Z] [INFO] [37m[46mServer Running in development Mode on Port 8080[49m[39m
+[2024-05-15T14:08:39.181Z] [INFO] POST /api/v1/user/register
+[2024-05-15T14:09:36.326Z] [INFO] POST /api/v1/user/register
+[2024-05-15T14:10:46.841Z] [INFO] POST /api/v1/user/login
+[2024-05-15T14:14:07.395Z] [INFO] POST /api/v1/user/auth
+[2024-05-15T14:14:52.684Z] [INFO] [37m[46mServer Running in development Mode on Port 8080[49m[39m
+[2024-05-15T14:15:15.096Z] [INFO] [37m[46mServer Running in development Mode on Port 8080[49m[39m
+[2024-05-15T14:15:19.660Z] [INFO] POST /api/v1/user/getUserData
+[2024-05-15T14:15:19.669Z] [INFO] POST /api/v1/user/getUserData
+[2024-05-15T14:21:54.863Z] [INFO] POST /api/v1/user/register
+[2024-05-15T14:22:17.025Z] [INFO] POST /api/v1/user/register
+[2024-05-15T14:22:30.013Z] [INFO] POST /api/v1/user/login
+[2024-05-15T14:29:09.366Z] [INFO] POST /api/v1/user/login
+[2024-05-15T14:30:22.351Z] [INFO] POST /api/v1/user/login
+[2024-05-15T14:33:44.275Z] [INFO] POST /api/v1/user/register
+[2024-05-15T14:34:01.999Z] [INFO] POST /api/v1/user/login
+[2024-05-15T14:35:10.803Z] [INFO] POST /api/v1/user/register
+[2024-05-15T14:35:18.906Z] [INFO] POST /api/v1/user/login
+[2024-05-15T14:35:19.173Z] [INFO] POST /api/v1/user/getUserData
+[2024-05-15T14:35:19.383Z] [INFO] POST /api/v1/user/getUserData
+[2024-05-15T14:35:19.393Z] [INFO] POST /api/v1/user/getUserData
+[2024-05-15T14:35:19.405Z] [INFO] POST /api/v1/user/getUserData
+[2024-05-15T14:35:19.454Z] [INFO] POST /api/v1/user/getUserData
+[2024-05-15T14:35:19.755Z] [INFO] POST /api/v1/user/getUserData
+[2024-05-15T16:07:29.374Z] [INFO] [37m[46mServer Running in development Mode on Port 8080[49m[39m
+[2024-05-15T16:20:18.820Z] [INFO] [37m[46mServer Running in development Mode on Port 8080[49m[39m
+[2024-05-15T16:21:09.991Z] [INFO] POST /api/v1/user/register
+[2024-05-15T16:22:45.018Z] [INFO] POST /api/v1/user/register
+[2024-05-15T16:24:35.953Z] [INFO] [37m[46mServer Running in development Mode on Port 8080[49m[39m
+[2024-05-15T16:24:40.689Z] [INFO] POST /api/v1/user/getUserData
+[2024-05-15T16:24:40.694Z] [INFO] POST /api/v1/user/getUserData
+[2024-05-15T16:24:48.868Z] [INFO] POST /api/v1/user/register
+[2024-05-15T16:26:12.624Z] [INFO] POST /api/v1/user/register
+[2024-05-15T16:27:34.782Z] [INFO] POST /api/v1/user/register
+[2024-05-15T16:28:47.039Z] [INFO] POST /api/v1/user/register
+[2024-05-15T16:29:05.914Z] [INFO] [37m[46mServer Running in development Mode on Port 8080[49m[39m
+[2024-05-15T16:29:10.447Z] [INFO] POST /api/v1/user/getUserData
+[2024-05-15T16:29:10.454Z] [INFO] POST /api/v1/user/getUserData
+[2024-05-15T16:29:18.437Z] [INFO] POST /api/v1/user/register
+[2024-05-15T16:34:34.659Z] [ERROR] Failed to start the server: Error: Unable to connect to the database:
+[2024-05-15T16:34:56.947Z] [ERROR] Failed to start the server: Error: Unable to connect to the database:
+[2024-05-15T16:35:11.767Z] [ERROR] Failed to start the server: Error: Unable to connect to the database:
+[2024-05-15T16:36:31.709Z] [ERROR] Failed to start the server: Error: Unable to connect to the database:
+[2024-05-15T16:37:00.202Z] [ERROR] Failed to start the server: Error: Unable to connect to the database:
+[2024-05-15T16:37:14.927Z] [INFO] [37m[46mServer Running in development Mode on Port 8080[49m[39m
+[2024-05-15T16:37:29.825Z] [INFO] [37m[46mServer Running in development Mode on Port 8080[49m[39m
+[2024-05-15T16:37:34.249Z] [INFO] POST /api/v1/user/getUserData
+[2024-05-15T16:37:34.257Z] [INFO] POST /api/v1/user/getUserData
+[2024-05-15T16:37:43.060Z] [INFO] POST /api/v1/user/register
+[2024-05-15T16:37:57.232Z] [INFO] POST /api/v1/user/login
+[2024-05-15T16:37:57.734Z] [INFO] POST /api/v1/user/getUserData
+[2024-05-15T16:37:57.744Z] [INFO] POST /api/v1/user/getUserData
+[2024-05-15T16:37:57.753Z] [INFO] POST /api/v1/user/getUserData
+[2024-05-15T16:37:57.760Z] [INFO] POST /api/v1/user/getUserData
+[2024-05-15T16:37:57.983Z] [INFO] POST /api/v1/user/getUserData
+[2024-05-15T16:37:58.105Z] [INFO] POST /api/v1/user/getUserData
+[2024-05-15T16:54:07.620Z] [INFO] POST /api/v1/user/login
+[2024-05-15T16:54:07.884Z] [INFO] POST /api/v1/user/getUserData
+[2024-05-15T16:54:08.085Z] [INFO] POST /api/v1/user/getUserData
+[2024-05-15T16:54:12.312Z] [INFO] POST /api/v1/user/getUserData
+[2024-05-15T16:54:12.461Z] [INFO] POST /api/v1/user/getUserData
+[2024-05-15T16:54:12.627Z] [INFO] POST /api/v1/user/getUserData
+[2024-05-15T16:54:12.635Z] [INFO] POST /api/v1/user/getUserData
+[2024-05-15T16:54:12.646Z] [INFO] POST /api/v1/user/getUserData
+[2024-05-15T16:54:12.788Z] [INFO] POST /api/v1/user/getUserData
+[2024-05-15T16:56:09.761Z] [INFO] POST /api/v1/user/register
+[2024-05-15T17:01:21.870Z] [ERROR] Failed to start the server: Error: Unable to connect to the database:
+[2024-05-15T17:02:39.902Z] [ERROR] Failed to start the server: Error: Unable to connect to the database:
+[2024-05-15T17:03:38.166Z] [INFO] [37m[46mServer Running in development Mode on Port 8080[49m[39m
+[2024-05-15T17:03:42.691Z] [INFO] POST /api/v1/user/getUserData
+[2024-05-15T17:03:42.697Z] [INFO] POST /api/v1/user/getUserData
+[2024-05-15T17:04:07.024Z] [INFO] POST /api/v1/user/register
+[2024-05-15T17:04:30.032Z] [INFO] POST /api/v1/user/register
+[2024-05-15T18:00:25.687Z] [INFO] [37m[46mServer Running in development Mode on Port 8080[49m[39m
+[2024-05-15T18:03:05.684Z] [ERROR] Failed to start the server: Error: Unable to connect to the database:
+[2024-05-15T18:06:06.587Z] [ERROR] Failed to start the server: Error: Unable to connect to the database:
+[2024-05-15T18:06:57.805Z] [ERROR] Failed to start the server: Error: Unable to connect to the database:
+[2024-05-15T18:08:48.241Z] [ERROR] Failed to start the server: Error: Unable to connect to the database:
+[2024-05-15T18:09:08.246Z] [INFO] [37m[46mServer Running in development Mode on Port 8080[49m[39m
+[2024-05-15T18:09:49.711Z] [INFO] [37m[46mServer Running in development Mode on Port 8080[49m[39m
+[2024-05-15T18:09:54.087Z] [INFO] POST /api/v1/user/getUserData
+[2024-05-15T18:09:54.097Z] [INFO] POST /api/v1/user/getUserData
+[2024-05-15T18:10:16.552Z] [INFO] POST /api/v1/user/register
+[2024-05-15T18:10:28.710Z] [INFO] POST /api/v1/user/login
+[2024-05-15T18:10:29.207Z] [INFO] POST /api/v1/user/getUserData
+[2024-05-15T18:10:29.214Z] [INFO] POST /api/v1/user/getUserData
+[2024-05-15T18:10:29.219Z] [INFO] POST /api/v1/user/getUserData
+[2024-05-15T18:10:29.229Z] [INFO] POST /api/v1/user/getUserData
+[2024-05-15T18:10:29.463Z] [INFO] POST /api/v1/user/getUserData
+[2024-05-15T18:10:29.567Z] [INFO] POST /api/v1/user/getUserData
+[2024-05-15T18:11:09.230Z] [INFO] POST /api/v1/user/getUserData
+[2024-05-15T18:11:09.238Z] [INFO] POST /api/v1/user/getUserData
+[2024-05-15T18:11:09.250Z] [INFO] POST /api/v1/user/getUserData
+[2024-05-15T18:11:09.559Z] [INFO] POST /api/v1/user/getUserData
+[2024-05-15T18:11:09.567Z] [INFO] POST /api/v1/user/getUserData
+[2024-05-15T18:11:09.601Z] [INFO] POST /api/v1/user/getUserData
+[2024-05-15T18:13:12.335Z] [INFO] POST /api/v1/user/getUserData
+[2024-05-15T18:13:20.744Z] [INFO] POST /api/v1/user/getUserData
+[2024-05-15T18:13:20.749Z] [INFO] POST /api/v1/user/getUserData
+[2024-05-15T18:13:20.785Z] [INFO] POST /api/v1/user/getUserData
+[2024-05-15T18:13:21.065Z] [INFO] POST /api/v1/user/getUserData
+[2024-05-15T18:13:21.070Z] [INFO] POST /api/v1/user/getUserData
+[2024-05-15T18:13:21.132Z] [INFO] POST /api/v1/user/getUserData
+[2024-05-15T18:13:49.540Z] [INFO] POST /api/v1/user/register
+[2024-05-15T18:14:34.822Z] [INFO] POST /api/v1/user/register
+[2024-05-15T18:19:16.959Z] [INFO] POST /api/v1/user/register
+[2024-05-15T18:20:18.231Z] [INFO] POST /api/v1/user/register
+[2024-05-15T18:23:47.507Z] [INFO] POST /api/v1/user/login
+[2024-05-15T18:23:47.998Z] [INFO] POST /api/v1/user/getUserData
+[2024-05-15T18:23:48.002Z] [INFO] POST /api/v1/user/getUserData
+[2024-05-15T18:23:48.007Z] [INFO] POST /api/v1/user/getUserData
+[2024-05-15T18:23:48.014Z] [INFO] POST /api/v1/user/getUserData
+[2024-05-15T18:23:48.250Z] [INFO] POST /api/v1/user/getUserData
+[2024-05-15T18:23:48.353Z] [INFO] POST /api/v1/user/getUserData
+[2024-05-15T18:24:31.642Z] [INFO] [37m[46mServer Running in development Mode on Port 8080[49m[39m
+[2024-05-15T18:24:36.979Z] [INFO] POST /api/v1/user/getUserData
+[2024-05-15T18:24:36.991Z] [INFO] POST /api/v1/user/getUserData
+[2024-05-15T18:24:36.997Z] [INFO] POST /api/v1/user/getUserData
+[2024-05-15T18:24:37.281Z] [INFO] POST /api/v1/user/getUserData
+[2024-05-15T18:24:37.332Z] [INFO] POST /api/v1/user/getUserData
+[2024-05-15T18:24:37.336Z] [INFO] POST /api/v1/user/getUserData
+[2024-05-15T18:24:37.834Z] [INFO] GET /main.ea80066579e62a15a559.hot-update.json
+[2024-05-15T18:24:38.524Z] [INFO] POST /api/v1/user/getUserData
+[2024-05-15T18:24:38.531Z] [INFO] POST /api/v1/user/getUserData
+[2024-05-15T18:24:38.556Z] [INFO] POST /api/v1/user/getUserData
+[2024-05-15T18:24:38.865Z] [INFO] POST /api/v1/user/getUserData
+[2024-05-15T18:24:44.363Z] [INFO] POST /api/v1/user/login
+[2024-05-15T18:24:52.801Z] [INFO] POST /api/v1/user/login
+[2024-05-15T18:25:16.745Z] [INFO] POST /api/v1/user/register
+[2024-05-15T18:25:33.050Z] [INFO] POST /api/v1/user/register
+[2024-05-15T18:26:16.447Z] [INFO] POST /api/v1/user/login
+[2024-05-15T18:26:16.934Z] [INFO] POST /api/v1/user/getUserData
+[2024-05-15T18:26:16.945Z] [INFO] POST /api/v1/user/getUserData
+[2024-05-15T18:26:16.960Z] [INFO] POST /api/v1/user/getUserData
+[2024-05-15T18:26:16.973Z] [INFO] POST /api/v1/user/getUserData
+[2024-05-15T18:26:17.182Z] [INFO] POST /api/v1/user/getUserData
+[2024-05-15T18:26:17.333Z] [INFO] POST /api/v1/user/getUserData
+[2024-05-15T18:26:26.206Z] [INFO] POST /api/v1/user/getUserData
+[2024-05-15T18:26:26.511Z] [INFO] POST /api/v1/user/getUserData
+[2024-05-15T18:26:33.184Z] [INFO] POST /api/v1/user/getUserData
+[2024-05-15T18:26:33.189Z] [INFO] POST /api/v1/user/getUserData
+[2024-05-15T18:27:12.475Z] [INFO] POST /api/v1/user/getUserData
+[2024-05-15T18:27:12.480Z] [INFO] POST /api/v1/user/getUserData
+[2024-05-15T18:27:12.490Z] [INFO] POST /api/v1/user/getUserData
+[2024-05-15T18:27:12.496Z] [INFO] POST /api/v1/user/getUserData
+[2024-05-15T18:27:12.813Z] [INFO] POST /api/v1/user/getUserData
+[2024-05-15T18:27:12.839Z] [INFO] POST /api/v1/user/getUserData
+[2024-05-15T18:27:15.109Z] [INFO] POST /api/v1/user/getUserData
+[2024-05-15T18:27:15.115Z] [INFO] POST /api/v1/user/getUserData
+[2024-05-15T18:27:17.604Z] [INFO] POST /api/v1/user/getUserData
+[2024-05-15T18:27:17.610Z] [INFO] POST /api/v1/user/getUserData
+[2024-05-15T18:27:22.604Z] [INFO] POST /api/v1/user/getUserData
+[2024-05-15T18:27:22.906Z] [INFO] POST /api/v1/user/getUserData
+[2024-05-15T18:41:04.844Z] [INFO] POST /api/v1/user/getUserData
+[2024-05-15T18:41:04.852Z] [INFO] POST /api/v1/user/getUserData
+[2024-05-15T18:41:04.858Z] [INFO] POST /api/v1/user/getUserData
+[2024-05-15T18:41:05.152Z] [INFO] POST /api/v1/user/getUserData
+[2024-05-15T18:41:05.171Z] [INFO] POST /api/v1/user/getUserData
+[2024-05-15T18:41:05.202Z] [INFO] POST /api/v1/user/getUserData
+[2024-05-15T21:45:42.353Z] [INFO] POST /api/v1/user/getUserData
+[2024-05-15T21:45:42.370Z] [INFO] POST /api/v1/user/getUserData
+[2024-05-15T21:45:42.375Z] [INFO] POST /api/v1/user/getUserData
+[2024-05-15T21:45:42.843Z] [INFO] POST /api/v1/user/getUserData
+[2024-05-15T21:45:42.847Z] [INFO] POST /api/v1/user/getUserData
+[2024-05-15T21:45:42.851Z] [INFO] POST /api/v1/user/getUserData
+[2024-05-15T21:45:42.934Z] [INFO] POST /api/v1/user/getUserData
+[2024-05-15T21:45:42.938Z] [INFO] POST /api/v1/user/getUserData
+[2024-05-15T21:45:42.991Z] [INFO] POST /api/v1/user/getUserData
+[2024-05-15T21:45:43.193Z] [INFO] POST /api/v1/user/getUserData
+[2024-05-15T21:45:43.200Z] [INFO] POST /api/v1/user/getUserData
+[2024-05-15T21:45:43.205Z] [INFO] POST /api/v1/user/getUserData
+[2024-05-15T21:46:00.474Z] [INFO] POST /api/v1/user/getUserData
+[2024-05-15T21:46:00.480Z] [INFO] POST /api/v1/user/getUserData
+[2024-05-15T21:46:00.793Z] [INFO] POST /api/v1/user/getUserData
+[2024-05-15T21:46:00.797Z] [INFO] POST /api/v1/user/getUserData
+[2024-05-15T21:46:00.813Z] [INFO] POST /api/v1/user/getUserData
+[2024-05-15T21:46:00.816Z] [INFO] POST /api/v1/user/getUserData
+[2024-05-15T21:46:07.168Z] [INFO] POST /api/v1/user/getUserData
+[2024-05-15T21:46:07.173Z] [INFO] POST /api/v1/user/getUserData
+[2024-05-15T21:46:11.931Z] [INFO] POST /api/v1/user/getUserData
+[2024-05-15T21:46:11.935Z] [INFO] POST /api/v1/user/getUserData
+[2024-05-15T21:46:42.482Z] [INFO] POST /api/v1/user/register
+[2024-05-15T21:47:12.639Z] [INFO] POST /api/v1/user/register
+[2024-05-15T21:48:49.800Z] [ERROR] Failed to start the server: Error: Unable to connect to the database:
+[2024-05-15T21:49:05.737Z] [INFO] [37m[46mServer Running in development Mode on Port 8080[49m[39m
+[2024-05-15T21:53:47.781Z] [INFO] [37m[46mServer Running in development Mode on Port 8080[49m[39m
+[2024-05-15T21:57:14.208Z] [INFO] [37m[46mServer Running in development Mode on Port 8080[49m[39m
+[2024-05-15T21:57:20.666Z] [INFO] POST /api/v1/user/getUserData
+[2024-05-15T21:57:20.674Z] [INFO] POST /api/v1/user/getUserData
+[2024-05-15T21:57:40.608Z] [INFO] POST /api/v1/user/register
+[2024-05-15T22:01:39.916Z] [INFO] POST /api/v1/user/login
+[2024-05-15T22:01:40.113Z] [INFO] POST /api/v1/user/getUserData
+[2024-05-15T22:01:40.434Z] [INFO] POST /api/v1/user/getUserData
+[2024-05-15T22:01:40.438Z] [INFO] POST /api/v1/user/getUserData
+[2024-05-15T22:01:40.445Z] [INFO] POST /api/v1/user/getUserData
+[2024-05-15T22:01:40.772Z] [INFO] POST /api/v1/user/getUserData
+[2024-05-15T22:01:40.787Z] [INFO] POST /api/v1/user/getUserData
+[2024-05-15T22:02:03.377Z] [INFO] POST /api/v1/user/register
+[2024-05-15T22:02:28.897Z] [INFO] POST /api/v1/user/register
+[2024-05-15T22:02:48.784Z] [INFO] POST /api/v1/user/register
+[2024-05-15T22:03:03.088Z] [INFO] POST /api/v1/user/register
+[2024-05-15T22:03:22.268Z] [INFO] POST /api/v1/user/register
+[2024-05-15T22:06:32.346Z] [INFO] POST /api/v1/user/register
+[2024-05-15T22:06:48.076Z] [INFO] POST /api/v1/user/login
+[2024-05-15T22:06:48.550Z] [INFO] POST /api/v1/user/getUserData
+[2024-05-15T22:06:48.560Z] [INFO] POST /api/v1/user/getUserData
+[2024-05-15T22:08:32.541Z] [INFO] [37m[46mServer Running in development Mode on Port 8080[49m[39m
+[2024-05-15T22:09:01.251Z] [INFO] [37m[46mServer Running in development Mode on Port 8080[49m[39m
+[2024-05-15T22:09:05.823Z] [INFO] POST /api/v1/user/getUserData
+[2024-05-15T22:09:05.834Z] [INFO] POST /api/v1/user/getUserData
+[2024-05-15T22:09:05.840Z] [INFO] POST /api/v1/user/getUserData
+[2024-05-15T22:09:06.133Z] [INFO] POST /api/v1/user/getUserData
+[2024-05-15T22:09:06.181Z] [INFO] POST /api/v1/user/getUserData
+[2024-05-15T22:09:06.184Z] [INFO] POST /api/v1/user/getUserData
+[2024-05-15T22:09:26.270Z] [INFO] POST /api/v1/user/login
+[2024-05-15T22:09:42.611Z] [INFO] POST /api/v1/user/login
+[2024-05-15T22:09:43.150Z] [INFO] POST /api/v1/user/getUserData
+[2024-05-15T22:09:43.162Z] [INFO] POST /api/v1/user/getUserData
+[2024-05-15T22:09:43.169Z] [INFO] POST /api/v1/user/getUserData
+[2024-05-15T22:09:43.178Z] [INFO] POST /api/v1/user/getUserData
+[2024-05-15T22:09:43.389Z] [INFO] POST /api/v1/user/getUserData
+[2024-05-15T22:09:43.518Z] [INFO] POST /api/v1/user/getUserData
+[2024-05-15T22:09:57.533Z] [INFO] POST /api/v1/user/login
+[2024-05-15T22:09:58.014Z] [INFO] POST /api/v1/user/getUserData
+[2024-05-15T22:09:58.022Z] [INFO] POST /api/v1/user/getUserData
+[2024-05-15T22:09:58.032Z] [INFO] POST /api/v1/user/getUserData
+[2024-05-15T22:09:58.038Z] [INFO] POST /api/v1/user/getUserData
+[2024-05-15T22:09:58.251Z] [INFO] POST /api/v1/user/getUserData
+[2024-05-15T22:09:58.403Z] [INFO] POST /api/v1/user/getUserData
+[2024-05-15T22:10:52.167Z] [INFO] POST /api/v1/user/login
+[2024-05-15T22:10:52.666Z] [INFO] POST /api/v1/user/getUserData
+[2024-05-15T22:10:52.671Z] [INFO] POST /api/v1/user/getUserData
+[2024-05-15T22:10:52.679Z] [INFO] POST /api/v1/user/getUserData
+[2024-05-15T22:10:52.690Z] [INFO] POST /api/v1/user/getUserData
+[2024-05-15T22:10:52.924Z] [INFO] POST /api/v1/user/getUserData
+[2024-05-15T22:10:53.022Z] [INFO] POST /api/v1/user/getUserData
+[2024-05-15T22:12:13.234Z] [INFO] [37m[46mServer Running in development Mode on Port 8080[49m[39m
+[2024-05-15T22:12:17.858Z] [INFO] POST /api/v1/user/getUserData
+[2024-05-15T22:12:17.863Z] [INFO] POST /api/v1/user/getUserData
+[2024-05-15T22:12:51.177Z] [INFO] POST /api/v1/user/register
+[2024-05-15T22:13:01.973Z] [INFO] POST /api/v1/user/login
+[2024-05-15T22:13:02.240Z] [INFO] POST /api/v1/user/getUserData
+[2024-05-15T22:13:02.456Z] [INFO] POST /api/v1/user/getUserData
+[2024-05-15T22:13:02.464Z] [INFO] POST /api/v1/user/getUserData
+[2024-05-15T22:13:02.475Z] [INFO] POST /api/v1/user/getUserData
+[2024-05-15T22:13:02.501Z] [INFO] POST /api/v1/user/getUserData
+[2024-05-15T22:13:02.807Z] [INFO] POST /api/v1/user/getUserData
+[2024-05-15T22:14:37.204Z] [INFO] POST /api/v1/user/login
+[2024-05-15T22:14:37.816Z] [INFO] POST /api/v1/user/getUserData
+[2024-05-15T22:14:37.825Z] [INFO] POST /api/v1/user/getUserData
+[2024-05-15T22:14:37.837Z] [INFO] POST /api/v1/user/getUserData
+[2024-05-15T22:14:37.852Z] [INFO] POST /api/v1/user/getUserData
+[2024-05-15T22:14:38.057Z] [INFO] POST /api/v1/user/getUserData
+[2024-05-15T22:14:38.189Z] [INFO] POST /api/v1/user/getUserData
+[2024-05-15T22:16:21.977Z] [INFO] POST /api/v1/user/login
+[2024-05-15T22:16:22.228Z] [INFO] POST /api/v1/user/getUserData
+[2024-05-15T22:16:22.487Z] [INFO] POST /api/v1/user/getUserData
+[2024-05-15T22:16:22.493Z] [INFO] POST /api/v1/user/getUserData
+[2024-05-15T22:16:22.500Z] [INFO] POST /api/v1/user/getUserData
+[2024-05-15T22:16:22.523Z] [INFO] POST /api/v1/user/getUserData
+[2024-05-15T22:16:22.828Z] [INFO] POST /api/v1/user/getUserData
+[2024-05-15T22:20:38.880Z] [INFO] [37m[46mServer Running in development Mode on Port 8080[49m[39m
+[2024-05-15T22:20:45.032Z] [INFO] POST /api/v1/user/getUserData
+[2024-05-15T22:20:45.040Z] [INFO] POST /api/v1/user/getUserData
+[2024-05-15T22:21:04.443Z] [INFO] POST /api/v1/user/register
+[2024-05-15T22:21:14.198Z] [INFO] POST /api/v1/user/login
+[2024-05-15T22:21:14.465Z] [INFO] POST /api/v1/user/getUserData
+[2024-05-15T22:21:14.728Z] [INFO] POST /api/v1/user/getUserData
+[2024-05-15T22:21:14.735Z] [INFO] POST /api/v1/user/getUserData
+[2024-05-15T22:21:14.745Z] [INFO] POST /api/v1/user/getUserData
+[2024-05-15T22:21:14.791Z] [INFO] POST /api/v1/user/getUserData
+[2024-05-15T22:21:15.098Z] [INFO] POST /api/v1/user/getUserData
+[2024-05-15T22:21:27.691Z] [INFO] POST /api/v1/user/login
+[2024-05-15T22:21:27.947Z] [INFO] POST /api/v1/user/getUserData
+[2024-05-15T22:21:28.149Z] [INFO] POST /api/v1/user/getUserData
+[2024-05-15T22:24:37.508Z] [INFO] POST /api/v1/user/getUserData
+[2024-05-15T22:24:37.519Z] [INFO] POST /api/v1/user/getUserData
+[2024-05-15T22:24:37.525Z] [INFO] POST /api/v1/user/getUserData
+[2024-05-15T22:24:37.827Z] [INFO] POST /api/v1/user/getUserData
+[2024-05-15T22:24:37.851Z] [INFO] POST /api/v1/user/getUserData
+[2024-05-15T22:24:37.880Z] [INFO] POST /api/v1/user/getUserData
+[2024-05-15T22:26:58.546Z] [INFO] POST /api/v1/user/getUserData
+[2024-05-15T22:26:58.551Z] [INFO] POST /api/v1/user/getUserData
+[2024-05-15T22:26:58.886Z] [INFO] POST /api/v1/user/getUserData
+[2024-05-15T22:26:58.891Z] [INFO] POST /api/v1/user/getUserData
+[2024-05-15T22:26:58.893Z] [INFO] POST /api/v1/user/getUserData
+[2024-05-15T22:26:58.908Z] [INFO] POST /api/v1/user/getUserData
+[2024-05-15T22:27:13.494Z] [INFO] POST /api/v1/user/login
+[2024-05-15T22:27:13.963Z] [INFO] POST /api/v1/user/getUserData
+[2024-05-15T22:27:13.968Z] [INFO] POST /api/v1/user/getUserData
+[2024-05-15T22:27:13.972Z] [INFO] POST /api/v1/user/getUserData
+[2024-05-15T22:27:13.977Z] [INFO] POST /api/v1/user/getUserData
+[2024-05-15T22:27:14.217Z] [INFO] POST /api/v1/user/getUserData
+[2024-05-15T22:27:14.316Z] [INFO] POST /api/v1/user/getUserData
+[2024-05-15T22:27:58.614Z] [INFO] POST /api/v1/user/getUserData
+[2024-05-15T22:27:58.834Z] [INFO] POST /api/v1/user/getUserData
+[2024-05-15T22:27:58.930Z] [INFO] POST /api/v1/user/getUserData
+[2024-05-15T22:27:58.936Z] [INFO] POST /api/v1/user/getUserData
+[2024-05-15T22:27:58.965Z] [INFO] POST /api/v1/user/getUserData
+[2024-05-15T22:27:59.170Z] [INFO] POST /api/v1/user/getUserData
+[2024-05-15T23:14:16.652Z] [INFO] POST /api/v1/user/getUserData
+[2024-05-15T23:14:16.674Z] [INFO] POST /api/v1/user/getUserData
+[2024-05-15T23:14:16.679Z] [INFO] POST /api/v1/user/getUserData
+[2024-05-15T23:14:16.969Z] [INFO] POST /api/v1/user/getUserData
+[2024-05-15T23:14:16.974Z] [INFO] POST /api/v1/user/getUserData
+[2024-05-15T23:14:17.047Z] [INFO] POST /api/v1/user/getUserData
+[2024-05-16T11:15:17.281Z] [INFO] [37m[46mServer Running in development Mode on Port 8080[49m[39m
+[2024-05-16T11:15:49.531Z] [INFO] POST /api/v1/user/getUserData
+[2024-05-16T11:15:49.544Z] [INFO] POST /api/v1/user/getUserData
+[2024-05-16T11:16:05.598Z] [INFO] POST /api/v1/user/register
+[2024-05-16T11:19:42.177Z] [INFO] [37m[46mServer Running in development Mode on Port 8080[49m[39m
+[2024-05-16T11:19:48.905Z] [INFO] POST /api/v1/user/getUserData
+[2024-05-16T11:19:48.909Z] [INFO] POST /api/v1/user/getUserData
+[2024-05-16T11:19:49.747Z] [INFO] GET /main.b349caf4b8cc95aafb34.hot-update.json
+[2024-05-16T11:20:48.522Z] [INFO] [37m[46mServer Running in development Mode on Port 8080[49m[39m
+[2024-05-16T11:20:52.872Z] [INFO] POST /api/v1/user/getUserData
+[2024-05-16T11:20:52.877Z] [INFO] POST /api/v1/user/getUserData
+[2024-05-16T11:21:42.768Z] [INFO] POST /api/v1/user/register
+[2024-05-16T11:23:27.515Z] [INFO] [37m[46mServer Running in development Mode on Port 8080[49m[39m
+[2024-05-16T11:25:22.270Z] [ERROR] Failed to start the server: Error: Unable to connect to the database:
+[2024-05-16T11:25:46.691Z] [INFO] [37m[46mServer Running in development Mode on Port 8080[49m[39m
+[2024-05-16T11:25:50.915Z] [INFO] POST /api/v1/user/getUserData
+[2024-05-16T11:25:50.921Z] [INFO] POST /api/v1/user/getUserData
+[2024-05-16T11:26:04.664Z] [INFO] POST /api/v1/user/register
+[2024-05-16T11:26:16.670Z] [INFO] POST /api/v1/user/login
+[2024-05-16T11:26:17.160Z] [INFO] POST /api/v1/user/getUserData
+[2024-05-16T11:26:17.167Z] [INFO] POST /api/v1/user/getUserData
+[2024-05-16T11:26:17.173Z] [INFO] POST /api/v1/user/getUserData
+[2024-05-16T11:26:17.182Z] [INFO] POST /api/v1/user/getUserData
+[2024-05-16T11:26:17.431Z] [INFO] POST /api/v1/user/getUserData
+[2024-05-16T11:26:17.524Z] [INFO] POST /api/v1/user/getUserData
+[2024-05-16T12:06:35.762Z] [INFO] POST /api/v1/user/register
+[2024-05-16T12:06:36.020Z] [INFO] POST /api/v1/user/getUserData
+[2024-05-16T12:06:36.145Z] [INFO] POST /api/v1/user/getUserData
+[2024-05-16T12:06:36.153Z] [INFO] POST /api/v1/user/getUserData
+[2024-05-16T12:06:36.166Z] [INFO] POST /api/v1/user/getUserData
+[2024-05-16T12:06:36.218Z] [INFO] POST /api/v1/user/getUserData
+[2024-05-16T12:06:36.519Z] [INFO] POST /api/v1/user/getUserData
+[2024-05-16T12:24:25.262Z] [INFO] [37m[46mServer Running in development Mode on Port 8080[49m[39m
+[2024-05-16T12:24:29.492Z] [INFO] POST /api/v1/user/getUserData
+[2024-05-16T12:24:29.498Z] [INFO] POST /api/v1/user/getUserData
+[2024-05-16T12:24:54.622Z] [INFO] POST /api/v1/user/register
+[2024-05-16T12:25:05.689Z] [INFO] POST /api/v1/user/login
+[2024-05-16T12:25:05.945Z] [INFO] POST /api/v1/user/getUserData
+[2024-05-16T12:25:06.172Z] [INFO] POST /api/v1/user/getUserData
+[2024-05-16T12:25:06.179Z] [INFO] POST /api/v1/user/getUserData
+[2024-05-16T12:25:06.189Z] [INFO] POST /api/v1/user/getUserData
+[2024-05-16T12:25:06.206Z] [INFO] POST /api/v1/user/getUserData
+[2024-05-16T12:25:06.525Z] [INFO] POST /api/v1/user/getUserData
+[2024-05-16T12:42:24.200Z] [INFO] [37m[46mServer Running in development Mode on Port 8080[49m[39m
+[2024-05-16T12:42:36.091Z] [INFO] [37m[46mServer Running in development Mode on Port 8080[49m[39m
+[2024-05-16T12:42:40.479Z] [INFO] POST /api/v1/user/getUserData
+[2024-05-16T12:42:40.488Z] [INFO] POST /api/v1/user/getUserData
+[2024-05-16T12:43:17.058Z] [INFO] POST /api/v1/user/register
+[2024-05-16T12:45:13.120Z] [INFO] POST /api/v1/user/register
+[2024-05-16T12:47:51.348Z] [INFO] [37m[46mServer Running in development Mode on Port 8080[49m[39m
+[2024-05-16T12:48:11.035Z] [INFO] POST /api/v1/user/getUserData
+[2024-05-16T12:48:11.045Z] [INFO] POST /api/v1/user/getUserData
+[2024-05-16T12:48:36.354Z] [INFO] POST /api/v1/user/register
+[2024-05-16T12:48:45.091Z] [INFO] POST /api/v1/user/login
+[2024-05-16T12:48:45.588Z] [INFO] POST /api/v1/user/getUserData
+[2024-05-16T12:48:45.602Z] [INFO] POST /api/v1/user/getUserData
+[2024-05-16T12:48:45.614Z] [INFO] POST /api/v1/user/getUserData
+[2024-05-16T12:48:45.624Z] [INFO] POST /api/v1/user/getUserData
+[2024-05-16T12:48:45.851Z] [INFO] POST /api/v1/user/getUserData
+[2024-05-16T12:48:45.991Z] [INFO] POST /api/v1/user/getUserData
+[2024-05-16T12:49:52.213Z] [INFO] POST /api/v1/user/getUserData
+[2024-05-16T12:49:52.241Z] [INFO] POST /api/v1/user/getUserData
+[2024-05-16T12:49:52.522Z] [INFO] POST /api/v1/user/getUserData
+[2024-05-16T12:49:52.525Z] [INFO] POST /api/v1/user/getUserData
+[2024-05-16T12:49:52.544Z] [INFO] POST /api/v1/user/getUserData
+[2024-05-16T12:49:52.556Z] [INFO] POST /api/v1/user/getUserData
+[2024-05-16T13:10:49.693Z] [INFO] POST /api/v1/user/register
+[2024-05-16T13:11:07.296Z] [INFO] POST /api/v1/user/login
+[2024-05-16T13:11:07.779Z] [INFO] POST /api/v1/user/getUserData
+[2024-05-16T13:11:07.786Z] [INFO] POST /api/v1/user/getUserData
+[2024-05-16T13:11:07.795Z] [INFO] POST /api/v1/user/getUserData
+[2024-05-16T13:11:07.801Z] [INFO] POST /api/v1/user/getUserData
+[2024-05-16T13:11:08.031Z] [INFO] POST /api/v1/user/getUserData
+[2024-05-16T13:11:08.146Z] [INFO] POST /api/v1/user/getUserData
+[2024-05-16T13:13:08.559Z] [INFO] POST /api/v1/user/register
+[2024-05-16T13:19:46.181Z] [INFO] POST /api/v1/user/register
+[2024-05-16T13:21:24.069Z] [INFO] [37m[46mServer Running in development Mode on Port 8080[49m[39m
+[2024-05-16T13:21:46.465Z] [INFO] POST /api/v1/user/register
+[2024-05-16T13:22:43.108Z] [INFO] POST /api/v1/user/login
+[2024-05-16T13:22:58.651Z] [INFO] POST /api/v1/user/login
+[2024-05-16T13:22:59.143Z] [INFO] POST /api/v1/user/getUserData
+[2024-05-16T13:22:59.159Z] [INFO] POST /api/v1/user/getUserData
+[2024-05-16T13:22:59.176Z] [INFO] POST /api/v1/user/getUserData
+[2024-05-16T13:22:59.195Z] [INFO] POST /api/v1/user/getUserData
+[2024-05-16T13:22:59.387Z] [INFO] POST /api/v1/user/getUserData
+[2024-05-16T13:22:59.549Z] [INFO] POST /api/v1/user/getUserData
+[2024-05-16T13:25:49.715Z] [INFO] POST /api/v1/user/getUserData
+[2024-05-16T13:25:49.722Z] [INFO] POST /api/v1/user/getUserData
+[2024-05-16T13:25:49.730Z] [INFO] POST /api/v1/user/getUserData
+[2024-05-16T13:25:50.023Z] [INFO] POST /api/v1/user/getUserData
+[2024-05-16T13:25:50.044Z] [INFO] POST /api/v1/user/getUserData
+[2024-05-16T13:25:50.073Z] [INFO] POST /api/v1/user/getUserData
+[2024-05-16T13:27:03.286Z] [INFO] POST /api/v1/user/getUserData
+[2024-05-16T13:27:03.292Z] [INFO] POST /api/v1/user/getUserData
+[2024-05-16T13:27:03.608Z] [INFO] POST /api/v1/user/getUserData
+[2024-05-16T13:27:03.611Z] [INFO] POST /api/v1/user/getUserData
+[2024-05-16T13:27:03.623Z] [INFO] POST /api/v1/user/getUserData
+[2024-05-16T13:27:03.635Z] [INFO] POST /api/v1/user/getUserData
+[2024-05-16T13:27:16.501Z] [INFO] POST /api/v1/user/login
+[2024-05-16T13:27:16.994Z] [INFO] POST /api/v1/user/getUserData
+[2024-05-16T13:27:17.000Z] [INFO] POST /api/v1/user/getUserData
+[2024-05-16T13:29:04.645Z] [INFO] POST /api/v1/user/getUserData
+[2024-05-16T13:29:04.659Z] [INFO] POST /api/v1/user/getUserData
+[2024-05-16T13:29:04.966Z] [INFO] POST /api/v1/user/getUserData
+[2024-05-16T13:29:04.969Z] [INFO] POST /api/v1/user/getUserData
+[2024-05-16T13:29:05.025Z] [INFO] POST /api/v1/user/getUserData
+[2024-05-16T13:29:05.029Z] [INFO] POST /api/v1/user/getUserData
+[2024-05-16T13:29:26.166Z] [INFO] POST /api/v1/user/register
+[2024-05-16T13:33:43.866Z] [INFO] POST /api/v1/user/register
+[2024-05-16T13:33:59.327Z] [INFO] POST /api/v1/user/register
+[2024-05-16T13:40:44.967Z] [INFO] POST /api/v1/user/register
+[2024-05-16T13:42:50.480Z] [INFO] POST /api/v1/user/getUserData
+[2024-05-16T13:42:50.483Z] [INFO] POST /api/v1/user/getUserData
+[2024-05-16T13:43:15.865Z] [INFO] POST /api/v1/user/register
+[2024-05-16T13:43:49.657Z] [INFO] POST /api/v1/user/register
+[2024-05-16T13:50:08.083Z] [INFO] POST /api/v1/user/register
+[2024-05-16T13:50:32.387Z] [INFO] [37m[46mServer Running in development Mode on Port 8080[49m[39m
+[2024-05-16T13:51:59.958Z] [INFO] POST /api/v1/user/getUserData
+[2024-05-16T13:51:59.967Z] [INFO] POST /api/v1/user/getUserData
+[2024-05-16T13:52:13.437Z] [INFO] POST /api/v1/user/register
+[2024-05-16T13:52:38.483Z] [INFO] POST /api/v1/user/register
+[2024-05-16T13:53:16.860Z] [INFO] POST /api/v1/user/login
+[2024-05-16T13:53:17.122Z] [INFO] POST /api/v1/user/getUserData
+[2024-05-16T13:53:17.359Z] [INFO] POST /api/v1/user/getUserData
+[2024-05-16T13:53:17.366Z] [INFO] POST /api/v1/user/getUserData
+[2024-05-16T13:53:17.375Z] [INFO] POST /api/v1/user/getUserData
+[2024-05-16T13:53:17.402Z] [INFO] POST /api/v1/user/getUserData
+[2024-05-16T13:53:17.714Z] [INFO] POST /api/v1/user/getUserData
+[2024-05-16T13:53:31.906Z] [INFO] POST /api/v1/user/login
+[2024-05-16T13:53:32.169Z] [INFO] POST /api/v1/user/getUserData
+[2024-05-16T13:53:32.389Z] [INFO] POST /api/v1/user/getUserData
+[2024-05-16T14:00:56.991Z] [INFO] POST /api/v1/user/getUserData
+[2024-05-16T14:00:56.998Z] [INFO] POST /api/v1/user/getUserData
+[2024-05-16T14:00:57.007Z] [INFO] POST /api/v1/user/getUserData
+[2024-05-16T14:00:57.307Z] [INFO] POST /api/v1/user/getUserData
+[2024-05-16T14:00:57.314Z] [INFO] POST /api/v1/user/getUserData
+[2024-05-16T14:00:57.354Z] [INFO] POST /api/v1/user/getUserData
+[2024-05-16T14:01:04.882Z] [INFO] POST /api/v1/user/login
+[2024-05-16T14:01:05.338Z] [INFO] POST /api/v1/user/getUserData
+[2024-05-16T14:01:05.343Z] [INFO] POST /api/v1/user/getUserData
+[2024-05-16T14:01:22.164Z] [INFO] POST /api/v1/user/login
+[2024-05-16T14:01:22.624Z] [INFO] POST /api/v1/user/getUserData
+[2024-05-16T14:01:22.632Z] [INFO] POST /api/v1/user/getUserData
+[2024-05-16T14:04:01.469Z] [INFO] POST /api/v1/user/getUserData
+[2024-05-16T14:04:01.473Z] [INFO] POST /api/v1/user/getUserData
+[2024-05-16T14:04:01.633Z] [INFO] POST /api/v1/user/getUserData
+[2024-05-16T14:04:01.768Z] [INFO] POST /api/v1/user/getUserData
+[2024-05-16T14:04:01.786Z] [INFO] POST /api/v1/user/getUserData
+[2024-05-16T14:04:01.804Z] [INFO] POST /api/v1/user/getUserData
+[2024-05-16T14:04:12.428Z] [INFO] POST /api/v1/user/login
+[2024-05-16T14:04:12.869Z] [INFO] POST /api/v1/user/getUserData
+[2024-05-16T14:04:12.874Z] [INFO] POST /api/v1/user/getUserData
+[2024-05-16T14:17:39.195Z] [INFO] POST /api/v1/user/getUserData
+[2024-05-16T14:17:39.202Z] [INFO] POST /api/v1/user/getUserData
+[2024-05-16T14:17:39.508Z] [INFO] POST /api/v1/user/getUserData
+[2024-05-16T14:17:39.515Z] [INFO] POST /api/v1/user/getUserData
+[2024-05-16T14:19:18.353Z] [INFO] POST /api/v1/user/getUserData
+[2024-05-16T14:19:18.470Z] [INFO] POST /api/v1/user/getUserData
+[2024-05-16T14:19:24.016Z] [INFO] POST /api/v1/user/getUserData
+[2024-05-16T14:19:24.020Z] [INFO] POST /api/v1/user/getUserData
+[2024-05-16T14:19:24.334Z] [INFO] POST /api/v1/user/getUserData
+[2024-05-16T14:19:24.337Z] [INFO] POST /api/v1/user/getUserData
+[2024-05-16T14:19:24.350Z] [INFO] POST /api/v1/user/getUserData
+[2024-05-16T14:19:24.377Z] [INFO] POST /api/v1/user/getUserData
+[2024-05-16T14:19:37.449Z] [INFO] POST /api/v1/user/login
+[2024-05-16T14:19:37.919Z] [INFO] POST /api/v1/user/getUserData
+[2024-05-16T14:19:37.931Z] [INFO] POST /api/v1/user/getUserData
+[2024-05-16T14:19:38.042Z] [INFO] POST /api/v1/user/getUserData
+[2024-05-16T14:19:38.181Z] [INFO] POST /api/v1/user/getUserData
+[2024-05-16T14:19:38.353Z] [INFO] POST /api/v1/user/getUserData
+[2024-05-16T14:19:38.359Z] [INFO] POST /api/v1/user/getUserData
+[2024-05-16T14:19:38.369Z] [INFO] POST /api/v1/user/getUserData
+[2024-05-16T14:19:38.374Z] [INFO] POST /api/v1/user/getUserData
+[2024-05-16T14:30:23.605Z] [INFO] POST /api/v1/user/getUserData
+[2024-05-16T14:30:23.612Z] [INFO] POST /api/v1/user/getUserData
+[2024-05-16T14:31:18.455Z] [INFO] POST /api/v1/user/apply-doctor
+[2024-05-16T14:34:18.380Z] [INFO] POST /api/v1/user/getUserData
+[2024-05-16T14:34:18.387Z] [INFO] POST /api/v1/user/getUserData
+[2024-05-16T14:34:59.957Z] [INFO] POST /api/v1/user/apply-doctor
+[2024-05-16T14:42:24.160Z] [INFO] POST /api/v1/user/getUserData
+[2024-05-16T14:42:24.170Z] [INFO] POST /api/v1/user/getUserData
+[2024-05-16T14:43:02.023Z] [INFO] POST /api/v1/user/getUserData
+[2024-05-16T14:43:02.029Z] [INFO] POST /api/v1/user/getUserData
+[2024-05-16T14:46:39.234Z] [INFO] POST /api/v1/user/getUserData
+[2024-05-16T14:46:39.238Z] [INFO] POST /api/v1/user/getUserData
+[2024-05-16T14:46:39.241Z] [INFO] POST /api/v1/user/getUserData
+[2024-05-16T14:46:39.632Z] [INFO] POST /api/v1/user/getUserData
+[2024-05-16T14:46:39.635Z] [INFO] POST /api/v1/user/getUserData
+[2024-05-16T14:46:39.638Z] [INFO] POST /api/v1/user/getUserData
+[2024-05-16T14:49:35.767Z] [INFO] POST /api/v1/user/getUserData
+[2024-05-16T14:49:35.771Z] [INFO] POST /api/v1/user/getUserData
+[2024-05-16T14:49:36.079Z] [INFO] POST /api/v1/user/getUserData
+[2024-05-16T14:49:36.082Z] [INFO] POST /api/v1/user/getUserData
+[2024-05-16T14:49:38.374Z] [INFO] POST /api/v1/user/getUserData
+[2024-05-16T14:49:38.592Z] [INFO] POST /api/v1/user/getUserData
+[2024-05-16T14:49:38.691Z] [INFO] POST /api/v1/user/getUserData
+[2024-05-16T14:49:38.697Z] [INFO] POST /api/v1/user/getUserData
+[2024-05-16T14:50:17.000Z] [INFO] POST /api/v1/user/getUserData
+[2024-05-16T14:50:17.526Z] [INFO] POST /api/v1/user/getUserData
+[2024-05-16T14:50:22.093Z] [INFO] POST /api/v1/user/getUserData
+[2024-05-16T14:50:22.097Z] [INFO] POST /api/v1/user/getUserData
+[2024-05-16T14:50:22.104Z] [INFO] POST /api/v1/user/getUserData
+[2024-05-16T14:50:22.401Z] [INFO] POST /api/v1/user/getUserData
+[2024-05-16T14:50:22.420Z] [INFO] POST /api/v1/user/getUserData
+[2024-05-16T14:50:22.423Z] [INFO] POST /api/v1/user/getUserData
+[2024-05-16T15:00:51.750Z] [INFO] POST /api/v1/user/getUserData
+[2024-05-16T15:00:51.756Z] [INFO] POST /api/v1/user/getUserData
+[2024-05-16T15:00:51.790Z] [INFO] POST /api/v1/user/getUserData
+[2024-05-16T15:00:52.058Z] [INFO] POST /api/v1/user/getUserData
+[2024-05-16T15:00:52.081Z] [INFO] POST /api/v1/user/getUserData
+[2024-05-16T15:00:52.126Z] [INFO] POST /api/v1/user/getUserData
+[2024-05-16T15:01:44.458Z] [INFO] POST /api/v1/user/apply-doctor
+[2024-05-16T15:02:08.536Z] [INFO] POST /api/v1/user/register
+[2024-05-16T15:02:17.170Z] [INFO] POST /api/v1/user/login
+[2024-05-16T15:02:17.650Z] [INFO] POST /api/v1/user/getUserData
+[2024-05-16T15:02:17.657Z] [INFO] POST /api/v1/user/getUserData
+[2024-05-16T15:02:17.901Z] [INFO] POST /api/v1/user/getUserData
+[2024-05-16T15:02:17.905Z] [INFO] POST /api/v1/user/getUserData
+[2024-05-16T15:02:18.216Z] [INFO] POST /api/v1/user/getUserData
+[2024-05-16T15:02:18.223Z] [INFO] POST /api/v1/user/getUserData
+[2024-05-16T15:02:18.244Z] [INFO] POST /api/v1/user/getUserData
+[2024-05-16T15:02:18.249Z] [INFO] POST /api/v1/user/getUserData
+[2024-05-16T15:02:29.132Z] [INFO] POST /api/v1/user/getUserData
+[2024-05-16T15:02:29.441Z] [INFO] POST /api/v1/user/getUserData
+[2024-05-16T15:10:06.086Z] [INFO] POST /api/v1/user/getUserData
+[2024-05-16T15:10:06.091Z] [INFO] POST /api/v1/user/getUserData
+[2024-05-16T15:10:08.467Z] [INFO] POST /api/v1/user/getUserData
+[2024-05-16T15:10:08.617Z] [INFO] POST /api/v1/user/getUserData
+[2024-05-16T15:10:44.132Z] [INFO] [37m[46mServer Running in development Mode on Port 8080[49m[39m
+[2024-05-16T15:10:58.661Z] [INFO] POST /api/v1/user/getUserData
+[2024-05-16T15:10:58.670Z] [INFO] POST /api/v1/user/getUserData
+[2024-05-16T15:10:58.675Z] [INFO] POST /api/v1/user/getUserData
+[2024-05-16T15:10:59.101Z] [INFO] POST /api/v1/user/getUserData
+[2024-05-16T15:10:59.107Z] [INFO] POST /api/v1/user/getUserData
+[2024-05-16T15:10:59.112Z] [INFO] POST /api/v1/user/getUserData
+[2024-05-16T15:11:11.893Z] [INFO] POST /api/v1/user/register
+[2024-05-16T15:11:21.034Z] [INFO] POST /api/v1/user/login
+[2024-05-16T15:11:21.554Z] [INFO] POST /api/v1/user/getUserData
+[2024-05-16T15:11:21.562Z] [INFO] POST /api/v1/user/getUserData
+[2024-05-16T15:11:21.571Z] [INFO] POST /api/v1/user/getUserData
+[2024-05-16T15:11:21.579Z] [INFO] POST /api/v1/user/getUserData
+[2024-05-16T15:11:21.684Z] [INFO] POST /api/v1/user/getUserData
+[2024-05-16T15:11:21.785Z] [INFO] POST /api/v1/user/getUserData
+[2024-05-16T15:11:22.017Z] [INFO] POST /api/v1/user/getUserData
+[2024-05-16T15:11:22.027Z] [INFO] POST /api/v1/user/getUserData
+[2024-05-16T15:11:22.038Z] [INFO] POST /api/v1/user/getUserData
+[2024-05-16T15:11:22.052Z] [INFO] POST /api/v1/user/getUserData
+[2024-05-16T15:16:33.014Z] [INFO] POST /api/v1/user/getUserData
+[2024-05-16T15:16:33.020Z] [INFO] POST /api/v1/user/getUserData
+[2024-05-16T15:16:33.326Z] [INFO] POST /api/v1/user/getUserData
+[2024-05-16T15:16:33.330Z] [INFO] POST /api/v1/user/getUserData
+[2024-05-16T15:16:33.369Z] [INFO] POST /api/v1/user/getUserData
+[2024-05-16T15:16:33.374Z] [INFO] POST /api/v1/user/getUserData
+[2024-05-16T15:17:52.470Z] [INFO] POST /api/v1/user/getUserData
+[2024-05-16T15:17:52.475Z] [INFO] POST /api/v1/user/getUserData
+[2024-05-16T15:17:52.513Z] [INFO] POST /api/v1/user/getUserData
+[2024-05-16T15:17:52.791Z] [INFO] POST /api/v1/user/getUserData
+[2024-05-16T15:17:52.796Z] [INFO] POST /api/v1/user/getUserData
+[2024-05-16T15:17:52.827Z] [INFO] POST /api/v1/user/getUserData
+[2024-05-16T15:18:03.019Z] [INFO] POST /api/v1/user/login
+[2024-05-16T15:18:03.512Z] [INFO] POST /api/v1/user/getUserData
+[2024-05-16T15:18:03.517Z] [INFO] POST /api/v1/user/getUserData
+[2024-05-16T15:18:03.597Z] [INFO] POST /api/v1/user/getUserData
+[2024-05-16T15:18:03.771Z] [INFO] POST /api/v1/user/getUserData
+[2024-05-16T15:18:03.909Z] [INFO] POST /api/v1/user/getUserData
+[2024-05-16T15:18:03.915Z] [INFO] POST /api/v1/user/getUserData
+[2024-05-16T15:18:03.926Z] [INFO] POST /api/v1/user/getUserData
+[2024-05-16T15:18:03.933Z] [INFO] POST /api/v1/user/getUserData
+[2024-05-16T15:18:32.864Z] [INFO] POST /api/v1/user/getUserData
+[2024-05-16T15:18:32.872Z] [INFO] POST /api/v1/user/getUserData
+[2024-05-16T15:18:33.174Z] [INFO] POST /api/v1/user/getUserData
+[2024-05-16T15:18:33.180Z] [INFO] POST /api/v1/user/getUserData
+[2024-05-16T15:18:33.187Z] [INFO] POST /api/v1/user/getUserData
+[2024-05-16T15:18:33.197Z] [INFO] POST /api/v1/user/getUserData
+[2024-05-16T15:20:51.341Z] [INFO] POST /api/v1/user/getUserData
+[2024-05-16T15:20:51.346Z] [INFO] POST /api/v1/user/getUserData
+[2024-05-16T15:20:51.350Z] [INFO] POST /api/v1/user/getUserData
+[2024-05-16T15:20:51.662Z] [INFO] POST /api/v1/user/getUserData
+[2024-05-16T15:20:51.697Z] [INFO] POST /api/v1/user/getUserData
+[2024-05-16T15:20:51.714Z] [INFO] POST /api/v1/user/getUserData
+[2024-05-16T15:22:07.621Z] [INFO] POST /api/v1/user/getUserData
+[2024-05-16T15:22:07.625Z] [INFO] POST /api/v1/user/getUserData
+[2024-05-16T15:22:07.630Z] [INFO] POST /api/v1/user/getUserData
+[2024-05-16T15:22:07.934Z] [INFO] POST /api/v1/user/getUserData
+[2024-05-16T15:22:07.959Z] [INFO] POST /api/v1/user/getUserData
+[2024-05-16T15:22:08.017Z] [INFO] POST /api/v1/user/getUserData
+[2024-05-16T15:22:56.724Z] [INFO] POST /api/v1/user/apply-doctor
+[2024-05-16T15:23:12.750Z] [INFO] POST /api/v1/user/getUserData
+[2024-05-16T15:23:12.798Z] [INFO] POST /api/v1/user/getUserData
+[2024-05-16T15:27:57.652Z] [INFO] POST /api/v1/user/getUserData
+[2024-05-16T15:27:57.660Z] [INFO] POST /api/v1/user/getUserData
+[2024-05-16T15:28:40.139Z] [INFO] POST /api/v1/user/getUserData
+[2024-05-16T15:28:40.147Z] [INFO] POST /api/v1/user/getUserData
+[2024-05-16T15:33:05.941Z] [INFO] POST /api/v1/user/getUserData
+[2024-05-16T15:33:05.946Z] [INFO] POST /api/v1/user/getUserData
+[2024-05-16T15:33:39.623Z] [INFO] POST /api/v1/user/apply-doctor
+[2024-05-16T15:37:54.310Z] [INFO] [37m[46mServer Running in development Mode on Port 8080[49m[39m
+[2024-05-16T15:46:18.293Z] [INFO] POST /api/v1/user/getUserData
+[2024-05-16T15:46:18.318Z] [INFO] POST /api/v1/user/getUserData
+[2024-05-16T15:46:41.744Z] [INFO] POST /api/v1/user/login
+[2024-05-16T15:46:42.268Z] [INFO] POST /api/v1/user/getUserData
+[2024-05-16T15:46:42.274Z] [INFO] POST /api/v1/user/getUserData
+[2024-05-16T15:46:42.518Z] [INFO] POST /api/v1/user/getUserData
+[2024-05-16T15:46:42.526Z] [INFO] POST /api/v1/user/getUserData
+[2024-05-16T15:46:42.836Z] [INFO] POST /api/v1/user/getUserData
+[2024-05-16T15:46:42.843Z] [INFO] POST /api/v1/user/getUserData
+[2024-05-16T15:46:42.850Z] [INFO] POST /api/v1/user/getUserData
+[2024-05-16T15:46:42.858Z] [INFO] POST /api/v1/user/getUserData
+[2024-05-16T15:47:23.507Z] [INFO] POST /api/v1/user/getUserData
+[2024-05-16T15:47:23.514Z] [INFO] POST /api/v1/user/getUserData
+[2024-05-16T15:47:23.827Z] [INFO] POST /api/v1/user/getUserData
+[2024-05-16T15:47:23.832Z] [INFO] POST /api/v1/user/getUserData
+[2024-05-16T15:47:23.837Z] [INFO] POST /api/v1/user/getUserData
+[2024-05-16T15:47:23.858Z] [INFO] POST /api/v1/user/getUserData
+[2024-05-16T15:48:05.887Z] [INFO] POST /api/v1/user/getUserData
+[2024-05-16T15:48:06.117Z] [INFO] POST /api/v1/user/getUserData
+[2024-05-16T15:48:06.219Z] [INFO] POST /api/v1/user/getUserData
+[2024-05-16T15:48:06.226Z] [INFO] POST /api/v1/user/getUserData
+[2024-05-16T15:48:06.236Z] [INFO] POST /api/v1/user/getUserData
+[2024-05-16T15:48:06.246Z] [INFO] POST /api/v1/user/getUserData
+[2024-05-16T15:48:12.258Z] [INFO] POST /api/v1/user/getUserData
+[2024-05-16T15:48:12.264Z] [INFO] POST /api/v1/user/getUserData
+[2024-05-16T15:48:15.605Z] [INFO] POST /api/v1/user/getUserData
+[2024-05-16T15:48:15.612Z] [INFO] POST /api/v1/user/getUserData
+[2024-05-16T15:49:26.479Z] [INFO] POST /api/v1/user/getUserData
+[2024-05-16T15:49:26.484Z] [INFO] POST /api/v1/user/getUserData
+[2024-05-16T15:49:26.659Z] [INFO] POST /api/v1/user/getUserData
+[2024-05-16T15:49:26.803Z] [INFO] POST /api/v1/user/getUserData
+[2024-05-16T15:49:26.813Z] [INFO] POST /api/v1/user/getUserData
+[2024-05-16T15:49:26.836Z] [INFO] POST /api/v1/user/getUserData
+[2024-05-16T15:50:04.801Z] [INFO] POST /api/v1/user/apply-doctor
+[2024-05-16T16:01:55.893Z] [INFO] [37m[46mServer Running in development Mode on Port 8080[49m[39m
+[2024-05-16T16:02:14.077Z] [INFO] POST /api/v1/user/getUserData
+[2024-05-16T16:02:14.090Z] [INFO] POST /api/v1/user/getUserData
+[2024-05-16T16:02:43.943Z] [INFO] POST /api/v1/user/apply-doctor
+[2024-05-16T16:12:21.927Z] [INFO] [37m[46mServer Running in development Mode on Port 8080[49m[39m
+[2024-05-16T16:12:40.479Z] [INFO] POST /api/v1/user/getUserData
+[2024-05-16T16:12:40.493Z] [INFO] POST /api/v1/user/getUserData
+[2024-05-16T16:13:11.279Z] [INFO] POST /api/v1/user/apply-doctor
+[2024-05-16T17:46:49.654Z] [INFO] POST /api/v1/user/getUserData
+[2024-05-16T17:46:49.660Z] [INFO] POST /api/v1/user/getUserData
+[2024-05-16T17:52:00.229Z] [INFO] POST /api/v1/user/apply-doctor
+[2024-05-16T17:56:55.253Z] [INFO] [37m[46mServer Running in development Mode on Port 8080[49m[39m
+[2024-05-16T17:57:03.386Z] [INFO] POST /api/v1/user/getUserData
+[2024-05-16T17:57:03.394Z] [INFO] POST /api/v1/user/getUserData
+[2024-05-16T17:57:28.737Z] [INFO] POST /api/v1/user/apply-doctor
+[2024-05-16T18:03:15.546Z] [INFO] [37m[46mServer Running in development Mode on Port 8080[49m[39m
+[2024-05-16T18:04:07.969Z] [INFO] GET /main.d77f9430351c1209c5a1.hot-update.json
+[2024-05-16T18:04:09.962Z] [INFO] POST /api/v1/user/getUserData
+[2024-05-16T18:04:10.261Z] [INFO] POST /api/v1/user/getUserData
+[2024-05-16T18:04:10.275Z] [INFO] POST /api/v1/user/getUserData
+[2024-05-16T18:04:10.277Z] [INFO] POST /api/v1/user/getUserData
+[2024-05-16T18:04:11.427Z] [INFO] POST /api/v1/user/getUserData
+[2024-05-16T18:04:11.430Z] [INFO] POST /api/v1/user/getUserData
+[2024-05-16T18:04:37.835Z] [INFO] POST /api/v1/user/register
+[2024-05-16T18:04:45.520Z] [INFO] POST /api/v1/user/login
+[2024-05-16T18:04:45.976Z] [INFO] POST /api/v1/user/getUserData
+[2024-05-16T18:04:45.982Z] [INFO] POST /api/v1/user/getUserData
+[2024-05-16T18:04:46.079Z] [INFO] POST /api/v1/user/getUserData
+[2024-05-16T18:04:46.225Z] [INFO] POST /api/v1/user/getUserData
+[2024-05-16T18:04:46.402Z] [INFO] POST /api/v1/user/getUserData
+[2024-05-16T18:04:46.408Z] [INFO] POST /api/v1/user/getUserData
+[2024-05-16T18:04:46.414Z] [INFO] POST /api/v1/user/getUserData
+[2024-05-16T18:04:46.425Z] [INFO] POST /api/v1/user/getUserData
+[2024-05-16T18:05:18.565Z] [INFO] POST /api/v1/user/apply-doctor
+[2024-05-16T18:25:55.446Z] [INFO] [37m[46mServer Running in development Mode on Port 8080[49m[39m
+[2024-05-16T18:37:03.071Z] [INFO] POST /api/v1/user/getUserData
+[2024-05-16T18:37:03.086Z] [INFO] POST /api/v1/user/getUserData
+[2024-05-16T18:37:35.557Z] [INFO] POST /api/v1/user/getUserData
+[2024-05-16T18:37:35.571Z] [INFO] POST /api/v1/user/getUserData
+[2024-05-16T18:38:05.489Z] [INFO] POST /api/v1/user/getUserData
+[2024-05-16T18:38:05.509Z] [INFO] POST /api/v1/user/getUserData
+[2024-05-16T18:49:36.899Z] [INFO] POST /api/v1/user/getUserData
+[2024-05-16T18:49:36.906Z] [INFO] POST /api/v1/user/getUserData
+[2024-05-16T18:50:56.753Z] [INFO] POST /api/v1/user/apply-doctor
+[2024-05-16T19:01:49.212Z] [INFO] POST /api/v1/user/getUserData
+[2024-05-16T19:01:49.223Z] [INFO] POST /api/v1/user/getUserData
+[2024-05-16T19:01:55.604Z] [INFO] POST /api/v1/user/getUserData
+[2024-05-16T19:01:55.612Z] [INFO] POST /api/v1/user/getUserData
